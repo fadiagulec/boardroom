@@ -4,7 +4,7 @@
 
 ## Install (one time, ~1 minute)
 1. Open the **Claude app** -> **Customize** (or Settings) -> **Plugins** -> **Add new**
-2. Enter:  `GITHUB-USER/boardroom`   *(your hosted repo)*
+2. Enter:  `fadiagulec/boardroom`
 3. Click **Sync**. All specialists install at once.
 
 ## Usage
