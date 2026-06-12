@@ -12,6 +12,9 @@
 - Or type **`/skill-name`** to call one directly (e.g. `/hamza-outreach-director`).
 - Use **`/boardroom`** as a smart router -- describe what you need, it routes you.
 
+## Setup once (recommended)
+Open **`shared/BUSINESS-CONTEXT.md`**, fill it in **one time**, and paste it into your Claude Project's knowledge. Every specialist will use it -- so you never have to re-explain your business. (See **`shared/HOUSE-STYLE.md`** for the quality standard every specialist follows.)
+
 ## The roster
 
 ### Corporate (5)
