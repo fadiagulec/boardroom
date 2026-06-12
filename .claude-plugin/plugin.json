@@ -1,0 +1,21 @@
+{
+    "name":  "boardroom",
+    "description":  "Boardroom -- 70 AI business specialists across 14 departments, plus 41 solo-operator skills. Your plug-and-play AI workforce for Claude.",
+    "version":  "1.0.0",
+    "author":  {
+                   "name":  "EarnWith.AI",
+                   "url":  "https://earnwith-ai.com"
+               },
+    "keywords":  [
+                     "boardroom",
+                     "ai-workforce",
+                     "business",
+                     "marketing",
+                     "sales",
+                     "finance",
+                     "hr",
+                     "operations",
+                     "strategy",
+                     "specialists"
+                 ]
+}
