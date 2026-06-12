@@ -186,4 +186,8 @@
 | `/youtube-channel` | Youtube | YouTube Channel Strategist |
 
 ---
-*Boardroom - An EarnWith.AI product - 70 specialists - 14 departments.*
+*Boardroom - An EarnWith.AI product.*
+
+## License
+
+(c) 2026 Fadia / EarnWith.AI. Licensed to the original purchaser for personal and business use only -- no resale, redistribution, repackaging, or competing use. See **LICENSE**.
