@@ -190,4 +190,4 @@
 
 ## License
 
-(c) 2026 Fadia / EarnWith.AI. Licensed to the original purchaser for personal and business use only -- no resale, redistribution, repackaging, or competing use. See **LICENSE**.
+(c) 2026 Tarmine LLC (EarnWith.AI). Licensed to the original purchaser for personal and business use only -- no resale, redistribution, repackaging, or competing use. See **LICENSE**.
