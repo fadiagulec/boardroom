@@ -5,13 +5,13 @@
                   "url":  "https://earnwith-ai.com"
               },
     "metadata":  {
-                     "description":  "70 AI business specialists across 14 departments + 41 solo-operator skills.",
+                     "description":  "111 AI specialists & skills: 70 specialists across 14 departments + 41 solo-operator skills.",
                      "version":  "1.0.0"
                  },
     "plugins":  [
                     {
                         "name":  "boardroom",
-                        "description":  "70 AI business specialists across 14 departments + 41 solo-operator skills.",
+                        "description":  "111 AI specialists & skills: 70 specialists across 14 departments + 41 solo-operator skills.",
                         "source":  "./",
                         "strict":  false,
                         "skills":  [

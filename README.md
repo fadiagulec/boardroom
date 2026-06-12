@@ -1,6 +1,6 @@
 # Boardroom -- The AI Workforce for Claude
 
-**70 specialist AI employees across 14 departments, plus 41 solo-operator skills.** Each is a Claude skill with its own persona, expertise, and ready-to-use output format. Built by EarnWith.AI.
+**111 AI specialists & skills** -- 70 specialists across 14 departments, plus 41 solo-operator skills. Each is a Claude skill with its own persona, expertise, and ready-to-use output format. Built by EarnWith.AI.
 
 ## Install (one time, ~1 minute)
 1. Open the **Claude app** -> **Customize** (or Settings) -> **Plugins** -> **Add new**
