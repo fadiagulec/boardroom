@@ -8,6 +8,14 @@ This folder turns `../CLAUDE-MASTERCLASS.md` (the course design) into a producib
 - `worksheets/` — one printable worksheet per module (reuses the course checkboxes)
 - `prompt-library.md` — every copy-paste prompt from the 6 weeks, in one place
 
+## Non-negotiable: REAL CLAUDE ON SCREEN
+Every `[DEMO]` is recorded showing the **actual Claude product** doing the actual thing — real
+prompts, real responses, real files. **No** stock footage, generic B-roll, mockups, or static
+screenshots substituting for a live action. Record the right surface per week:
+- Weeks 1–3 → claude.ai / desktop Chat app  ·  Week 4 → desktop app → Cowork
+- Week 5 → Antigravity + Claude Code panel  ·  Week 6 → Chat/Cowork building a skill
+Redact private info; otherwise show genuine output (including fixing a first attempt — that realism sells).
+
 ## How to produce each video (repeat per script)
 1. **Slides:** copy the "🟦 GAMMA OUTLINE" block from the script → paste into Gamma → pick one brand theme → generate.
 2. **Record:** open Screen Studio (Mac) or Tella. Read the **NARRATION** lines aloud; when you hit a **[DEMO]** cue, switch to Claude and do the action live.

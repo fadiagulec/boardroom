@@ -26,6 +26,13 @@ Two separate jobs: **create** the videos, then **host/deliver** them. Use the be
 **Lean recommended stack:** Gamma → Screen Studio/Tella → Descript for the core lessons; **Zoom/Riverside** for the live calls. (HeyGen only for intros.)
 
 > **"Show everything" rule:** the core demos are **full, uncut screen walkthroughs** — every click, every menu, real Claude output. No skipping, no slide-only explaining. Slides are bookends; the screen recording is the lesson.
+>
+> **"Real Claude only" rule:** every demo shows the **actual Claude product on screen** — never stock footage, generic B-roll, mockups, or screenshots standing in for a live action. If a step happens in Claude, we record Claude *doing it live*, with real prompts and real responses. Capture the exact surface for each week:
+> - Weeks 1–3 → **claude.ai / the desktop Chat app** (settings, Projects, real conversations)
+> - Week 4 → **Claude desktop app → Cowork** (real folder, real files, the brief running)
+> - Week 5 → **Antigravity with the Claude Code panel** (real terminal/build, real files changing)
+> - Week 6 → **Chat/Cowork** building and triggering a real skill
+> Redact anything private on screen; otherwise show the genuine output, including when a first attempt needs fixing — that realism is what builds trust.
 
 ### Host & deliver
 | Your goal | Platform |
