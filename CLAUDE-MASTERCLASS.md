@@ -1,171 +1,122 @@
-# Claude Masterclass — Build Your AI Workforce
-*A visual, video-first masterclass. Host voice: "from the team that builds Claude."*
+# Claude MBA — The Masterclass (Video Edition)
+*A visual, video-first rebuild of the 6-week Claude MBA Action Plan.*
+*By Fadia. Companion to the written Notion guide + the Mastery Guide (Opus 4.8).*
 
-> Built to sit on top of the two written guides ("Claude Mastery Guide — FABLE 5 Update"
-> and "Your Claude MBA Action Plan") and to drive activation of **Boardroom** (111 AI
-> specialists & skills). Replace bracketed notes with your specifics.
+> Goal of this doc: turn the written 6-week plan into "videos explaining things,"
+> and decide where to host them. Structure mirrors the real plan exactly:
+> AI Audit → 6 weekly phases → Bonus references → final Audit.
 
 ---
 
-## Part A — The Platform Decision (how to make it "videos explaining things")
+## Part A — How to make it visual + where to host it
 
-There are **two separate jobs**: (1) *creating* the visual videos, and (2) *hosting/delivering*
-them. Don't pick one tool for both — pick the best of each layer.
+Two separate jobs: **create** the videos, then **host/deliver** them. Use the best of each layer.
 
-### Layer 1 — CREATE the videos (the "more visual" part)
-
-| Need | Recommended tool | Why |
+### Create the videos
+| Need | Tool | Why |
 | --- | --- | --- |
-| Beautiful slides/visuals fast | **Gamma** | AI turns an outline into a polished, on-brand deck in minutes; export or screen-record it |
-| Screen + demo recording | **Screen Studio** (Mac) or **Tella** (web) | Auto-zoom, smooth cursor, instant "premium course" look without editing skill |
-| Transcript-based editing | **Descript** | Edit video by editing text, remove "ums," add captions, AI voice patching |
-| AI "host" / presenter | **HeyGen** or **Synthesia** | Lets you have a consistent on-screen "host" narrate without filming — good for the intro/host segments |
-| Short clips for promo | **Opus Clip** | Auto-cuts highlight reels for IG/TikTok/LinkedIn/YouTube Shorts |
+| On-brand slides, fast | **Gamma** | Outline → polished deck in minutes |
+| Screen + Claude demos | **Screen Studio** (Mac) / **Tella** (web) | Auto-zoom, smooth cursor, "premium course" look |
+| Edit + captions | **Descript** | Edit by transcript, remove filler, auto-captions |
+| Optional host/presenter | **HeyGen** / **Synthesia** | AI host for intros without filming |
+| Promo clips | **Opus Clip** | Auto-cut reels for IG/LinkedIn/X |
 
-**Recommended create-stack (lean + polished):** Gamma (visuals) → Screen Studio/Tella (record
-Claude demos) → Descript (clean up + captions). Add HeyGen only for the host/intro segments.
+**Lean recommended stack:** Gamma → Screen Studio/Tella → Descript. (HeyGen only for intros.)
 
-### Layer 2 — HOST & DELIVER the masterclass
+### Host & deliver
+| Your goal | Platform |
+| --- | --- |
+| Course + community (best for a 6-week cohort) | **Skool** ← recommended |
+| Pure structured course (drip by week) | **Teachable** / Thinkific |
+| All-in-one premium (email + funnel + payments) | **Kajabi** |
+| Fastest launch / one-off sale | **Gumroad** |
+| Clean video playback inside any of the above | **Vimeo** / Wistia |
 
-Pick based on your goal:
+**Recommendation for this series:** host on **Skool** — a 6-week challenge *needs* a community to
+post wins (your plan already asks people to share milestones), and Skool drips content + gates it
+simply. Embed each lesson via **Vimeo**. If you want zero community overhead, **Teachable** with
+weekly drip is the clean alternative; **Gumroad** if you want it live this week.
 
-| Your goal | Best platform | Notes |
-| --- | --- | --- |
-| **Sell it as a course** (clean, course-first) | **Teachable** or **Thinkific** | Built for selling structured courses; drip lessons, quizzes, certificates |
-| **Course + community** (highest engagement) | **Skool** | Flat ~$99/mo, simple, where this buyer hangs out; great for an active "Claude builders" community |
-| **All-in-one premium** (course + email + funnels + payments) | **Kajabi** | Most powerful, pricier; good if this becomes a real business line |
-| **Simplest one-off sale** | **Gumroad** | Drop videos behind a paywall in an afternoon |
-| **Just clean video embeds** (no ads, analytics) | **Vimeo** or **Wistia** | Use *inside* any of the above for premium playback |
-| **Free / gated lightly** | **YouTube (unlisted)** | Zero cost, but no real gating or buyer data |
-
-**My single recommendation (for your situation — selling Boardroom):**
-> Host on **Skool** (community + course + simple paywall, and it doubles as your Boardroom
-> support community), and embed the lessons via **Vimeo** for clean playback. If you'd rather
-> keep it pure-course with no community overhead, use **Teachable** instead. Use **Gumroad**
-> if you want the fastest possible launch this week.
-
-**Delivery format that converts best:** short modules (3–8 min each), one idea per video,
-"do this now" action at the end of each, plus a downloadable 1-page worksheet per module.
+**Format that converts:** one video per *action* (not per week). 3–8 min each. Every video ends
+with the same checkbox action that's already in your written plan, plus a 1-page worksheet.
 
 ---
 
-## Part B — The Masterclass (module-by-module)
+## Part B — The course (mapped to your 6 weeks)
 
-**Working title:** *The Claude MBA — Build Your AI Workforce*
-**Format:** 9 modules · ~30 short videos · ~3–4 hours total · each video has a live Claude demo
-**Promise:** "Go from typing questions into a chatbot to running an AI workforce that does real work."
+**Promise:** "Go from 'I've heard of Claude' to 'Claude is my co-founder' in 6 weeks."
+**Spine:** the 8-area **AI Audit** opens and closes the course; each week raises specific audit scores.
 
-For each video below: **🎬 on screen** (what's visual) · **🎤 beats** (script) · **▶️ demo** (live Claude) · **✅ action**.
+### Module 0 — Welcome + Your AI Audit
+**V0.1 — Why this exists (2 min)** · 🎬 host on camera + montage of Claude doing real work · 🎤 most people use 5% of Claude; this is a *do-it* challenge, not more theory · ✅ commit publicly.
+**V0.2 — How the 6 weeks work (2 min)** · 🎬 animated roadmap of the 6 phases · ✅ duplicate the Notion template.
+**V0.3 — Take your AI Audit (3 min)** · 🎬 the 8-area scorecard on screen, filled in live · 🎤 score 1–5 on Setup, Content Strategy, Creation Speed, Quality, File/Doc Automation, Building Capability, Workflow Integration, Confidence · ✅ record your /40 baseline.
 
----
+### Module 1 — Week 1: Foundation *(raises: AI Setup, Confidence)*
+**V1.1 — Get set up (4 min)** · ▶️ live: sign up for Pro, install desktop app, onboarding · 🎤 why Pro (Cowork + Code unlock in Wks 4–5) · ✅ account + app installed.
+**V1.2 — The setting everyone skips: Personal Preferences (6 min)** · 🎬 settings walkthrough · ▶️ paste + customise the "About Me / How I Work / Communication Style" template · 🎤 this is Claude's base personality before any project loads · ✅ preferences saved.
+**V1.3 — Privacy + your name (2 min)** · ▶️ toggle off "Help improve Claude," set an aspirational profile name · ✅ done.
+**V1.4 — The 4 modes in 5 minutes (5 min)** · 🎬 four labelled panels: Chat · Projects · Cowork · Code · 🎤 what each is for, where to find it · ✅ locate all four.
+> *Already-using-Claude fast-pass note as a 60-sec card at the start of the module.*
 
-### Module 0 — Welcome (the "creator of Claude" frame)
-**V0.1 — Why this masterclass exists (2 min)**
-- 🎬 Host (you or AI presenter) on camera; bold title cards; quick montage of Claude doing real tasks.
-- 🎤 The shift: most people use 5% of Claude. This is the other 95%. By the end you'll have an AI team, not a chatbot.
-- ✅ Set up your Claude account / open the app.
+### Module 2 — Week 2: An army of specialised advisors (Projects) *(raises: AI Setup, Content Strategy)*
+> Model note card: use **Sonnet** for all setup this week — faster, fewer credits, plenty capable. Each project = 20–40 min; aim for your top 2–3 live.
 
-**V0.2 — How to take this masterclass (1 min)**
-- 🎬 Roadmap animation of the 9 modules.
-- ✅ Download the workbook; join the community.
+**V2.1 — Why one generic chatbot is the problem (4 min)** · 🎬 the expertise analogy: accountant vs. trainer vs. financial advisor — you don't hand blood tests to your accountant · 🎤 most people use Claude as one generalist with a vague brief every time; Projects give each domain its own context, memory, and job · ✅ find Projects in the sidebar, open one.
 
----
+**V2.2 — Design your project architecture (6 min)** · 🎬 on-screen the "common categories" map: Personal Brand · Strategy · Operations · Career · Finance · Health · Learning · 🎤 spend 10 min mapping *your actual life*, one sentence per project ("what is Claude's job here?") — don't copy a template · ✅ list your projects + pick the top 2–3 you'll build this week.
 
-### Module 1 — How Claude actually thinks (the mental model)
-**V1.1 — The one mental model that changes everything (5 min)**
-- 🎬 Animated diagram: instruction → context → reasoning → output.
-- 🎤 Claude isn't a search engine; it's a reasoning partner. Garbage context = garbage output.
-- ▶️ Same task, weak prompt vs. rich prompt, side by side.
-- ✅ Rewrite one of your real prompts using the model.
+**V2.3 — The master workspace prompt (8 min)** · 🎬 screen-record running the architect prompt end to end · 🎤 it's a strategy session, not a form — Claude finalises your architecture, interviews you per project, drafts custom instructions, and tells you what to upload, one project at a time · ▶️ open a new chat (Sonnet, extended thinking), paste your list into the prompt, build one project live on camera · ✅ create your shells, build your priority projects, add the finalised instructions + recommended docs.
+> Provide the full architect prompt as a copy-paste resource beside the video (the long Phase 1→Phase 2 prompt). Emphasise: let it push back; stop at the handover; max 2 projects per chat.
 
-**V1.2 — Context is everything (4 min)**
-- 🎬 Visual of a "context window" filling up.
-- ▶️ Paste a document, ask Claude to use it; show how grounding beats guessing.
+**V2.4 — The handover: never lose context (5 min)** · 🎬 show a chat degrading (vaguer answers, repetition) — "it's not getting worse, it's full" · ▶️ run the handover prompt, paste the doc into a fresh chat, continue seamlessly · 🎤 also use it when switching models · ✅ save the handover prompt somewhere accessible.
+> Provide the handover prompt as a copy-paste resource.
 
-**V1.3 — What's new with Fable 5 (3 min)**
-- 🎬 Before/after cards of capability jumps.
-- 🎤 [Pull the specific Fable 5 updates from your Mastery Guide here.]
+**V2.5 — Week 2 checkpoint + test it (2 min)** · ✅ architecture agreed · shells created · instructions loaded for top 2–3 · docs uploaded · handover prompt saved · 🎤 test: open your content project, ask something normal, feel the difference. Share your win.
 
----
+### Module 3 — Week 3: Content engine *(raises: Creation Speed, Content Quality)*
+**V3.1 — Idea → outline → draft (6 min)** · ▶️ run a real post from blank to draft inside your Project.
+**V3.2 — Make it sound like *you*, not AI (5 min)** · ▶️ apply the voice profile; before/after side by side.
+**V3.3 — Repurpose once, publish everywhere (5 min)** · ▶️ one piece → LinkedIn, X, email, caption.
+**V3.4 — Your weekly content sprint (4 min)** · 🎬 a repeatable workflow card · ✅ ship one piece of content this week.
 
-### Module 2 — The prompt patterns that do the heavy lifting
-**V2.1 — The 5 patterns (6 min)**: role, context, examples, format, constraints.
-- ▶️ Build one prompt live, layering each pattern; output visibly improves each step.
-**V2.2 — Examples > instructions (4 min):** show, don't tell (few-shot).
-**V2.3 — Make Claude ask *you* questions (3 min):** "interview me before answering."
-**V2.4 — Output formatting (3 min):** tables, JSON, email, slides on demand.
-- ✅ Save your 3 best prompts as reusable templates.
+### Module 4 — Week 4: Cowork (files & documents) *(raises: File & Document Automation)*
+**V4.1 — What Cowork is (3 min)** · 🎬 Claude reading/writing real files on your computer + Drive/Notion.
+**V4.2 — Create real documents (5 min)** · ▶️ generate a branded doc/spreadsheet from a prompt.
+**V4.3 — Tame your files (5 min)** · ▶️ sort a messy folder, rename, summarise a stack of PDFs.
+**V4.4 — Scheduled tasks (4 min)** · ▶️ set a recurring task · ✅ automate one admin chore you hate.
 
----
+### Module 5 — Week 5: Build capability *(raises: Building Capability)*
+**V5.1 — Code without being a coder (5 min)** · 🎤 plain English → a working tool · ▶️ build one tiny utility.
+**V5.2 — The shortcut: install an AI workforce (6 min)** · 🎬 reveal **Boardroom** — 111 specialists/skills · ▶️ Customize → Plugins → `fadiagulec/boardroom` → Sync · 🎤 instead of building every tool, install trained specialists.
+**V5.3 — Put specialists to work (5 min)** · ▶️ run 2–3 specialists (e.g. outreach, copywriting, strategy) on real tasks; chain their outputs · ✅ one specialist embedded in your week.
 
-### Module 3 — Projects, memory & files (your second brain)
-**V3.1 — Projects explained (4 min):** persistent context so you never re-explain yourself.
-**V3.2 — Loading knowledge (4 min):** upload docs, set custom instructions.
-- ▶️ This is where the **`BUSINESS-CONTEXT.md`** from Boardroom goes — paste once, used by everyone.
-**V3.3 — When to start fresh vs. continue (2 min).**
-- ✅ Create your first Project and load your business context.
+### Module 6 — Week 6: Integration + re-Audit *(raises: Workflow Integration, Confidence)*
+**V6.1 — Your AI operating rhythm (5 min)** · 🎬 a daily/weekly map of which mode + specialist runs what.
+**V6.2 — Build your personal AI org chart (4 min)** · ▶️ assign business functions to modes/specialists.
+**V6.3 — Re-take the AI Audit (3 min)** · 🎬 baseline vs. now, score the same 8 areas · ✅ compare /40, share the jump.
+**V6.4 — What's next (2 min)** · community, advanced builds, keep documenting.
 
----
-
-### Module 4 — Skills & slash commands: meet your AI workforce *(Boardroom core)*
-**V4.1 — From chatbot to workforce (5 min)**
-- 🎬 Reveal of the 14 departments + 70 specialists + 41 solo skills.
-- 🎤 Each specialist = a trained employee with a persona, expertise, and output format.
-**V4.2 — Installing Boardroom (3 min):** Customize → Plugins → `fadiagulec/boardroom` → Sync.
-**V4.3 — Calling a specialist (4 min):** describe the task and let Claude route, or type `/skill-name`.
-- ▶️ Run `/hamza-outreach-director` on a real outreach task.
-**V4.4 — The `/boardroom` router (3 min):** describe a need, get routed to the right specialist.
-- ✅ Run 3 specialists from 3 different departments today.
-
----
-
-### Module 5 — Chaining specialists into workflows
-**V5.1 — Hand-offs (5 min):** strategist → copywriter → CRO, output of one feeds the next.
-- ▶️ Build a mini campaign across `/yasmin-strategy-consultant` → `/karam-copywriting-director` → `/ruba-cro-director`.
-**V5.2 — The "boardroom meeting" pattern (4 min):** multiple specialists weigh in on one decision.
-**V5.3 — Repeatable SOPs (4 min):** turn a winning chain into a standard operating procedure.
-- ✅ Document one workflow you'll reuse weekly.
-
----
-
-### Module 6 — The Claude MBA (apply it to real business functions)
-*(Map this module directly to your "Claude MBA Action Plan" guide.)*
-**V6.1 — Sales & outreach** · **V6.2 — Marketing & content** · **V6.3 — Finance & ops**
-· **V6.4 — Hiring & HR** · **V6.5 — Strategy & decisions.**
-- Each: 1 specialist, 1 real deliverable produced live (pitch, content calendar, cash-flow view, JD, decision memo).
-- ✅ Pick the function that's your biggest bottleneck and ship one deliverable.
-
----
-
-### Module 7 — Advanced & automation
-**V7.1 — Quality control (4 min):** how to review, fact-check, and push back on Claude.
-**V7.2 — Custom house style (3 min):** load `HOUSE-STYLE.md` so every output matches your standard.
-**V7.3 — Beyond chat (4 min):** agents, connected tools, and where Claude is heading.
-**V7.4 — Avoiding the 7 common mistakes (4 min).**
-
----
-
-### Module 8 — Your 30-day action plan
-**V8.1 — Week-by-week plan (5 min)**
-- 🎬 Animated 30-day calendar: Wk1 setup & context · Wk2 daily specialists · Wk3 workflows · Wk4 automate a function.
-**V8.2 — Build your personal AI org chart (3 min):** which specialists run which part of your business.
-**V8.3 — Graduation + next steps (2 min):** community, certificate, what to master next.
-- ✅ Commit to a public 30-day challenge in the community.
+### Bonus videos (your "Bonus Resources" section)
+**B1 — Chat vs Cowork vs Code: pick the right mode (4 min)** · 🎬 the decision table animated.
+**B2 — Which model? Haiku / Sonnet / Opus (4 min)** · 🎤 *updated to current:* **Haiku 4.5** (fast/cheap quick tasks), **Sonnet 4.6** (default for most work; use extended thinking for hard ones), **Opus 4.8** (deep reasoning, building from scratch). Rule of thumb: start with Sonnet, escalate to Opus when output isn't good enough.
 
 ---
 
 ## Part C — Production checklist
-- [ ] Lock module list + promise (above)
-- [ ] Write per-video scripts using the 🎤 beats
-- [ ] Build deck in **Gamma** (one theme, your brand colors/logo)
-- [ ] Record demos in **Screen Studio / Tella** (real Claude tasks, not slides only)
-- [ ] Edit + caption in **Descript**
-- [ ] (Optional) Record host/intro with **HeyGen**
-- [ ] Upload to **Vimeo**, embed in **Skool / Teachable**
-- [ ] Add 1-page workbook per module (Gamma/Canva → PDF)
-- [ ] Cut 6–10 promo clips with **Opus Clip**
-- [ ] Soft-launch to existing Boardroom buyers, gather testimonials, then open wide
+- [ ] Lock module list above (already mapped to your 6 weeks)
+- [ ] Update model references everywhere to **Opus 4.8 / Sonnet 4.6 / Haiku 4.5** (guide currently says 4.6)
+- [ ] Write per-video scripts from the 🎤 beats
+- [ ] Build one Gamma theme (your brand)
+- [ ] Record demos in Screen Studio/Tella (real tasks, not slide-narration)
+- [ ] Edit + caption in Descript
+- [ ] (Optional) HeyGen intro/host segments
+- [ ] Upload to Vimeo → embed in Skool/Teachable, drip 1 module/week
+- [ ] 1-page worksheet per module (Gamma/Canva → PDF) — reuse the existing checkboxes
+- [ ] Cut promo clips with Opus Clip; soft-launch to current subscribers first
 
 ---
-*Notes: The two Notion source guides are private (couldn't be auto-read). Paste their section
-headers and I'll align Modules 1, 6, and the Fable 5 segment exactly to them.*
+*Still to integrate: the "Claude Mastery Guide (Opus 4.8)" content (couldn't be auto-read — paste
+it and I'll slot it into the Bonus videos + Weeks 2–3). Weeks 3–6 of your written plan were still
+being built; I've drafted them from the audit areas so the video course is complete end-to-end —
+adjust once your written weeks ship.*
