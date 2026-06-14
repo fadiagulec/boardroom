@@ -151,5 +151,5 @@ with the same checkbox action that's already in your written plan, plus a 1-page
 *Status: Weeks 1, 2, 4, 5, 6 are aligned to your real written plan. **Week 3 (Content engine)**
 is still my placeholder draft (built from the audit areas) — paste that week and I'll align it
 like the others. Also still to fold in: the **"Claude Mastery Guide (Opus 4.8)"** content for
-the Bonus videos. Credit: the written Claude MBA series is by Tayla Burrell (@taylaburrell) —
+the Bonus videos. Credit: the Claude MBA series is by Fadia —
 keep that attribution on any published version.*
