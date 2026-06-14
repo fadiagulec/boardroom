@@ -1,77 +1,83 @@
-# 30-Day Instagram Reels Content Plan — "Building with Claude Code"
+# 30-Day Instagram Reels Plan — Learn Claude Code (Build-Along)
 
-**Creator:** Fadia · 55, mom of 4, 30 years in corporate, no tech background, 8 apps built with Claude Code
+**Creator:** Fadia · built websites, funnels & apps with Claude Code, no tech background
 **Platform:** Instagram Reels · **Cadence:** Daily (30 in 30) · **Time budget:** 3–5 hrs/week
 **Optimizing for:** Follows (growth) + Shares + Conversions
+
+> **The intent:** *Teach* Claude Code step by step. The lesson is the focus; my story is the
+> hook — "look what I built, here's exactly how, you can too." Each module builds one real,
+> attractive thing people will *want* to make: a **website**, a **funnel**, then a real **app**.
 
 ---
 
 ## Audience
-Career-changers and "non-technical" people 35–60 — especially women and parents — who feel
-anxious AI will leave them behind, are curious but intimidated, and secretly want permission and
-a roadmap to start. Secondary: aspiring solopreneurs who want to build and sell small apps.
+"Non-technical" curious people 35–60 — especially women and parents — who are intimidated by
+AI/coding but want a clear, friendly roadmap to build real things. Secondary: aspiring
+solopreneurs who want to build and sell small apps/funnels.
 
-## Content Pillars
-| Pillar | What it does | Primary purpose |
-|---|---|---|
-| **P1 · Late Bloomer** (personal story) | The journey at 55, fears, family, identity | Connection |
-| **P2 · Build With Me** (tutorials/demos) | Step-by-step Claude Code, screen-recorded | Authority |
-| **P3 · Proof & Profit** (the apps) | Reveals of the 8 apps + how they make money | Shares / Conversion |
-| **P4 · AI for the Rest of Us** (mindset) | Future of work, myth-busting, "you're not too late" | Growth |
+## The journey (each module = one tangible build)
+| Module | Days | What THEY build | Skills taught through it |
+|---|---|---|---|
+| **M1 · Your first Website** | 1–7 | A personal website, live online | Install, terminal, prompting, deploy |
+| **M2 · A Funnel** | 8–14 | A landing page that collects emails | /init, Plan Mode, forms, diffs, errors |
+| **M3 · A real App** | 15–22 | An app from everyday life (e.g. calorie tracker) | MVP, features, design, mobile, git, tests |
+| **M4 · Ship & Grow** | 23–30 | Deploy, custom domain, and turn it into income | Deploy, debugging, docs, custom commands, selling |
 
-## Realistic production plan (3–5 hrs/week)
-- **Batch-film twice a week:** Sunday (film 4 reels) + Wednesday (film 3).
-- **Screen-record P2/P3 days while actually building** — zero extra time.
-- **One caption + cover template** so editing stays ~30 min/reel.
-- Total ≈ 3.5–4.5 hrs/week. Sustainable, not aspirational.
+## Why this works
+- **Teaching-first:** every reel delivers one usable step in order — that's the authority engine.
+- **Attraction by proof:** each reel opens with what's possible / what I built, so beginners feel "I want that."
+- **Fun, not lecture-y:** people watch a website, a funnel, then an app appear over the month.
+- **One light personal line per reel** ("this is how I built my calorie app") — garnish, never the subject.
+
+## Realistic production plan (3–5 hrs/week for daily posts)
+- **Batch-film twice a week:** Sunday (4 reels) + Wednesday (3).
+- **Screen-record while you're actually building** — the lesson *is* the footage, zero extra time.
+- **One caption + cover template** keeps editing ~30 min/reel → ~3.5–4.5 hrs/week.
 
 ## Hook rules used
-- Curiosity gap or emotional reaction in the first 3 seconds.
-- Specific over generic ("I built 8 apps" not "here's how to use AI").
-- Contrast wherever possible (before/after, belief vs. truth, expected vs. unexpected).
-- Verbal hook, on-screen text, and caption hook are all **different** — same idea, three angles.
+Curiosity gap in 3 seconds · specific over generic · contrast (belief vs. truth, before/after) ·
+verbal hook, on-screen text, and caption hook all **different** · no "In this post…" / "Today I'm going to…".
 
 ## Balance
-Authority ×10 · Growth ×9 · Connection ×6 · Conversion-CTA reels ×5. No format runs more than 2 days in a row.
+Authority ×22 (the teaching spine) · Growth ×6 (module openers + finale) · Conversion CTAs ×3
+(Days 11, 28, 30). No format runs more than ~2 days in a row; talking-head openers break up screen-records.
 
 ---
 
 ## The 30-Day Calendar
 
-Purpose key: Growth = reach new people · Authority = build trust · Connection = deepen relationship · Conversion = drive to product/link/list.
-
-| Day | Pillar | Format | Topic / Angle | Verbal Hook | On-Screen Text | Caption Hook | CTA | Purpose |
-|---|---|---|---|---|---|---|---|---|
-| 1 | P1 | Talking head + montage | Hero-story intro: 55, mom of 4, built 8 apps | "I'm 55, a mom of four, and I just built 8 apps." | No tech background. 8 apps. | Everyone said AI would take our jobs — so I learned to build with it. | Follow for all 30 days | Growth |
-| 2 | P4 | Talking head | Why I started: the job-loss news that triggered me | "I kept seeing people lose their jobs to AI." | The news that changed my life | I could've panicked. I did the opposite. | Comment if AI scares you too | Growth |
-| 3 | P2 | Screen-record | Install Claude Code in under 2 min | "You can install this in under two minutes." | Your first 2 minutes with AI | The exact steps I used — zero tech skills. | Save this for when you start | Authority |
-| 4 | P4 | Talking head + B-roll | Myth-bust: I don't code, I describe | "I don't write code. I just talk to it." | It builds. I just describe. | People think I learned to code. I didn't. | Follow to watch me build | Growth |
-| 5 | P2 | Screen-record demo | Build a website in 5 min, no code | "Watch me build a website in five minutes." | 5 minutes. Zero code. | Send this to anyone who thinks websites are hard. | Share with someone who needs a website | Authority/Growth |
-| 6 | P3 | Before/after reveal | Calorie app: photo → calories | "I made an app that counts calories from a photo." | I built this. From a photo. | Snap a meal, get the calories. Built in an afternoon. | Comment 'build' for how | Connection/Conversion |
-| 7 | P1 | Talking head | My 4 kids didn't believe I built it | "My kids didn't believe I built this." | Mom, YOU made that? | At 55 I became the most techy person in my house. | Tag a late bloomer | Connection |
-| 8 | P2 | Screen-record | Deploy your app online for free | "Your app is useless until it's online." | Laptop → live link | Nobody can use what only lives on your laptop. | Save this for launch day | Authority |
-| 9 | P4 | Talking head | Too late to start? I started at 55 | "Everyone says it's too late to start with AI." | Too late? I started at 55. | The best time was a year ago. The second best is now. | Send to someone who thinks they missed it | Growth |
-| 10 | P3 | Talking head + screen | How a tiny app can make money | "An app like this can earn while you sleep." | How a tiny app earns | At 55 I finally understand passive income. | Comment 'money' for the breakdown | Conversion |
-| 11 | P2 | Screen-record | CLAUDE.md — teach it your project | "This one file made my AI 10x smarter." | Type this. Thank me later. | The setup step nobody tells beginners. | Save before your next build | Authority |
-| 12 | P1 | Talking head | The fear before I clicked install | "I almost didn't click install." | The night I almost quit | That black terminal screen made me feel 12 again. | Comment if you're scared to start | Connection |
-| 13 | P3 | Reveal | Healing app for winding down at night | "I built an app that calms me down at night." | I built this for my anxiety | I couldn't find the app I needed, so I made it. | Share with someone who'd use this | Growth/Shares |
-| 14 | P2 | Screen-record | How to prompt: goals, not commands | "Stop telling AI to make an app. Say this." | The prompt that changed everything | One sentence: the difference between a mess and magic. | Save this prompt formula | Authority |
-| 15 | P4 | Talking head | 30 yrs corporate → what AI now automates | "I spent 30 years doing what AI does in seconds." | 30 years. Gone in seconds. | I'm not bitter about it. I'm using it. | Follow if your job is changing too | Growth |
-| 16 | P2 | Screen-record | Plan Mode: make it plan before building | "I make the AI show its plan before it touches anything." | Blueprint before concrete | The button that stopped my AI going rogue. | Save for your first build | Authority |
-| 17 | P1 | Day-in-the-life | A day building apps at 55 | "This is a day building apps at 55." | 5am. Coffee. Build. (Sort of.) | A grandma-aged woman, a terminal, and a list of apps. | Follow the journey | Connection |
-| 18 | P3 | Reveal | Virtual assistant app | "I built my own assistant so I'd stop forgetting things." | My personal AI assistant | I replaced 5 apps with one I built myself. | Tag someone who needs this | Growth/Shares |
-| 19 | P2 | Screen-record | What I do when it breaks (errors) | "When the screen fills with red, do this." | Red errors = don't panic | The scariest part of building is the easiest to fix. | Save for your first error | Authority |
-| 20 | P4 | Talking head + text | Myth: you need to be technical | "You think you need to be technical. You don't." | Not technical. Still building. | I can't fix my own printer. I built 8 apps. | Send to someone who says I'm not techy | Growth/Shares |
-| 21 | P3 | Talking head + screen | Idea → sellable app (the 3 steps) | "Here's how a free idea becomes something you can sell." | Idea → app → income | 3 steps between a shower thought and a product. | Comment 'sell' for my breakdown | Conversion |
-| 22 | P2 | Screen-record | Screenshot → design trick | "I designed my app by screenshotting one I liked." | Steal the look (legally) | No design skills? Neither do I. I use this. | Save this design hack | Authority |
-| 23 | P1 | Talking head | What people said when I told them | "When I told people I was building apps at 55..." | Isn't that for young people? | Half cheered. Half looked at me like I'd lost it. | Tag your biggest supporter | Connection |
-| 24 | P3 | Reveal (meta) | Content-creation app (makes these reels) | "I built an app that writes my content with me." | The app behind these reels | Meta moment: I built the tool that posts this. | Share with a creator | Growth/Shares |
-| 25 | P2 | Screen-record | Make it work on phones (responsive) | "Most people open your app on a phone. Don't skip this." | Make it perfect on phones | The step that makes your app feel real. | Save for your build | Authority |
-| 26 | P4 | Talking head | If AI scares you, watch this | "If AI scares you, I need you to hear this." | Scared of AI? Watch this. | Fear kept me stuck for months. Here's what broke it. | Send to someone who's afraid | Growth/Shares |
-| 27 | P2 | Screen-record | Build a feature YOU requested, live | "You asked for this feature, so I built it live." | You commented. I built it. | This app is being built by you in the comments. | Comment your next feature request | Authority/Comments |
-| 28 | P3 | Fast montage | All 8 apps in 60 seconds | "Every app I've built, in 60 seconds." | 8 apps. No tech background. | A year ago I couldn't open Terminal. Here's all 8. | Save this as proof it's possible | Conversion |
-| 29 | P1 | Talking head | What 30 days taught me (emotional) | "Thirty days ago I thought AI would replace me." | What 30 days changed | I started this scared. I'm ending it unrecognizable. | Comment 'Day 1' if you start today | Connection |
-| 30 | P4 | Talking head + CTA | Your turn — start today (+ lead magnet) | "Your turn. You can start this today." | Now it's your turn. | If a 55-year-old mom of 4 can build 8 apps, what's your excuse? | Comment 'START' — I'll send you step 1 | Growth/Conversion |
+| Day | Module (what you build) | Format | Teaching Step | What I Did (light) | Verbal Hook | On-Screen Text | Caption Hook | CTA | Purpose |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | M1 Website | Talking head + screen | What Claude Code is + the 30-day plan | I had no idea what this was either | "In 30 days you'll build a website, a funnel, and a real app." | Website, funnel, app — in 30 days | Day 1 of learning Claude Code from zero. | Follow — we build together | Growth |
+| 2 | M1 Website | Screen-record | What you need first: account + plan | I grabbed Pro and never looked back | "Before you build anything, you need these two things." | Step 0: before you install | The 2 things to set up before Claude Code. | Save this checklist | Authority |
+| 3 | M1 Website | Screen-record | Install in under 2 min | This exact command is how I started | "Here's exactly how to install it in under two minutes." | Install in under 2 minutes | Copy-paste install, step by step. | Save for when you install | Authority |
+| 4 | M1 Website | Screen-record | Open terminal + start Claude in a folder | That black screen scared me at first | "Two commands and Claude is running on your computer." | cd + claude = you're in | How to actually start Claude Code. | Save this | Authority |
+| 5 | M1 Website | Screen-record | Describe your site in plain English | The paragraph I used to build my site | "Tell it your goal, not step-by-step instructions." | Say the goal, not the steps | How to describe a website so it builds it. | Save this prompt tip | Authority |
+| 6 | M1 Website | Screen-record demo | Build the website live by describing it | My first build was my own website | "Watch a full website appear from one paragraph." | Your first build, no code | A real website from plain English, start to finish. | Share with someone who needs a site | Authority/Shares |
+| 7 | M1 Website | Screen-record | Deploy it online for free | This is how my site went live | "Your site is useless until it's online — here's the fix." | Laptop → live link | Step-by-step: get your website a real link. | Save for launch day | Authority |
+| 8 | M2 Funnel | Talking head + screen | What a funnel is + why build one | My funnel grows my list while I sleep | "A funnel is just a page that turns visitors into leads." | Build a page that collects emails | Day 8: we build a funnel that grows a list. | Follow for the build | Growth |
+| 9 | M2 Funnel | Screen-record | /init + CLAUDE.md | I run /init on every project | "Run this one command so Claude understands your project." | The /init command | The setup step that makes everything easier. | Save before your next build | Authority |
+| 10 | M2 Funnel | Screen-record | Plan Mode — plan the page first | I plan every page before it's built | "Make Claude show its plan before it changes anything." | Plan before it builds | See the landing page plan before it's built. | Save this | Authority |
+| 11 | M2 Funnel | Screen-record | Build + connect the opt-in form | This is the exact form on my funnel | "Let's add an email form and make it actually capture." | Add a working opt-in form | How to collect real emails from your page. | Comment 'funnel' for the steps | Authority/Comments |
+| 12 | M2 Funnel | Screen-record | Review the diff before accepting | I always read the diff first | "Watch how it edits files and how to check it." | Always check the diff | What 'accept' means before you click it. | Save this | Authority |
+| 13 | M2 Funnel | Screen-record | Preview + fix it in plain words | I tweak pages just by describing | "Preview your page and fix it in plain words." | See it, then fix it by talking | No design skills? Just describe the change. | Save this | Authority |
+| 14 | M2 Funnel | Screen-record | Fix errors (paste the error) | Every project had errors I fixed this way | "Hit an error? Just paste it back. Here's how." | Errors = copy, paste, fixed | The 3-second fix for scary error messages. | Save for your first error | Authority |
+| 15 | M3 App | Talking head + screen | Pick an app idea from everyday life | My calorie app solved my own problem | "The best first app solves a problem in your own day." | Turn a daily problem into an app | Day 15: we build a real app from scratch. | Comment your app idea | Growth/Comments |
+| 16 | M3 App | Screen-record | Define the MVP (smallest useful version) | I cut mine to one core feature | "Don't build everything — build the smallest useful version." | Build small first | The mistake that kills most first apps. | Save this | Authority |
+| 17 | M3 App | Screen-record | Build the first real feature | How I built my tracker's core | "Add your app's main feature without breaking things." | One feature at a time | The safe way to grow an app, step by step. | Save this | Authority |
+| 18 | M3 App | Screen-record | Design it with a screenshot | I copied a health app's look | "Paste a screenshot and watch it match the design." | Screenshot → real design | The design trick that needs zero skill. | Save this hack | Authority/Shares |
+| 19 | M3 App | Screen-record | Make it responsive (phones) | Every app I build is mobile-first | "One request makes your app work on phones." | Make it work on phones | Don't skip this — most users are on mobile. | Save this | Authority |
+| 20 | M3 App | Screen-record | Save work with git (save points) | This is how I never lose work | "Never lose your work — without learning git." | Save points for your project | How to 'save' so you can always undo. | Save this | Authority |
+| 21 | M3 App | Screen-record | Add tests so it proves it works | I added tests to my app this way | "Ask it to prove your app works — automatically." | Make it test itself | Stop new changes from breaking old ones. | Save this | Authority |
+| 22 | M3 App | Screen-record | Slash commands that speed you up | I use these daily | "Type a slash and unlock shortcuts you'll use daily." | Type / for shortcuts | The built-in commands worth knowing early. | Save this list | Authority |
+| 23 | M4 Ship | Screen-record demo | Deploy your app for free | This is how all my apps go live | "Let's put your app on the internet for free." | Laptop → live link | Step-by-step deploy so anyone can use it. | Save for launch day | Authority |
+| 24 | M4 Ship | Screen-record | Custom domain (your own link) | My projects each have a clean link | "Get your own link instead of a long ugly one." | Get your own web address | Turn that random URL into yourname.com. | Save this | Authority |
+| 25 | M4 Ship | Screen-record | Debug a real bug start to finish | A real user found a bug in my app | "A real user hit a bug — here's how I fixed it fast." | Fixing a real bug live | Watch the full debug, start to fix. | Save this approach | Authority |
+| 26 | M4 Ship | Screen-record | Write README/docs in one prompt | Claude wrote docs for all my projects | "Generate your project's docs in 30 seconds." | Docs in 30 seconds | The boring step, done in one prompt. | Save this | Authority |
+| 27 | M4 Ship | Screen-record | Custom slash commands | I made commands for my content | "Turn repeated prompts into one-word commands." | Make your own shortcuts | Save the prompts you use over and over. | Save this | Authority |
+| 28 | M4 Ship | Talking head + screen | Turn a build into something you sell | How a small app becomes income | "Here's how a free build becomes something you sell." | From build to income | The steps from a project to a product. | Comment 'sell' for the breakdown | Conversion |
+| 29 | M4 Ship | Screen-record demo | Build a small project start to finish (recap) | The exact process behind everything I built | "Let's build one project from zero using everything so far." | Zero to shipped, full run | Website, funnel, app — the whole method in one build. | Save the whole series | Authority/Growth |
+| 30 | M4 Ship | Talking head + screen | Your roadmap — what to build next | What I'm building next, too | "You can build websites, funnels and apps now — here's what's next." | Your next 30 days | Finished the series? Here's your roadmap. | Comment 'NEXT' for the guide | Growth/Conversion |
 
 ---
 
