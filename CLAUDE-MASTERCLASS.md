@@ -80,11 +80,23 @@ with the same checkbox action that's already in your written plan, plus a 1-page
 **V3.3 — Repurpose once, publish everywhere (5 min)** · ▶️ one piece → LinkedIn, X, email, caption.
 **V3.4 — Your weekly content sprint (4 min)** · 🎬 a repeatable workflow card · ✅ ship one piece of content this week.
 
-### Module 4 — Week 4: Cowork (files & documents) *(raises: File & Document Automation)*
-**V4.1 — What Cowork is (3 min)** · 🎬 Claude reading/writing real files on your computer + Drive/Notion.
-**V4.2 — Create real documents (5 min)** · ▶️ generate a branded doc/spreadsheet from a prompt.
-**V4.3 — Tame your files (5 min)** · ▶️ sort a messy folder, rename, summarise a stack of PDFs.
-**V4.4 — Scheduled tasks (4 min)** · ▶️ set a recurring task · ✅ automate one admin chore you hate.
+### Module 4 — Week 4: Cowork (hand over the work) *(raises: File & Document Automation)*
+> Flagship build: a **scheduled daily brief** that runs itself. Set up once → runs on its own.
+
+**V4.1 — Chat vs. Cowork = agency (4 min)** · 🎬 split screen: Chat (you in the loop every step) vs. Cowork (hand over a goal, it plans + executes + returns done) · 🎤 with recent updates Chat can touch Gmail/Notion/files too — the real difference is *agency*; Cowork is for complex, multi-step jobs you walk away from.
+
+**V4.2 — Set up the workspace (4 min)** · 🎤 Chat lives in the cloud; Cowork lives on your computer — setup matters · ▶️ create a `Cowork` folder + `Inbox` subfolder; paste **Global Instructions** (Settings → Cowork) with the startup routine + safety rules + output naming · ✅ guardrails so it never deletes/sends without asking.
+> Resource: the Global Instructions block (startup routine, safety rules, `YYYY-MM-DD_project_deliverable_v01` naming).
+
+**V4.3 — Give Cowork a brain: `CLAUDE.md` + `MEMORY.md` (6 min)** · 🎤 Cowork can't read your Projects — it starts cold every session unless you give it a file · ▶️ run the `CLAUDE.md` builder prompt *in Chat* (it reuses your Week 2 context), review, save to the Cowork folder (<400 words); then have Cowork create an empty `MEMORY.md` for cross-session learnings · ✅ both files in place.
+> Resources: the `CLAUDE.md` interview prompt + the `MEMORY.md` creation prompt.
+
+**V4.4 — Plan the daily brief in Chat (5 min)** · 🎤 plan in Chat (cheaper/faster), run in Cowork · ▶️ run the 4-decision planner (what's in it · how often/when · where your data lives + connectors · delivery & length) → Claude writes you a ready-to-run Cowork prompt · ✅ copy the generated prompt.
+> Resource: the daily-brief planner prompt.
+
+**V4.5 — Run, fix, schedule (5 min)** · ▶️ paste the prompt into Cowork (folder selected so it reads `CLAUDE.md`); first run *will* be wrong — give specific feedback, run v2 · then "turn this into a scheduled task at [time]" · 🎤 caveats: only runs while the computer is awake; multi-source briefs use more tokens · ✅ brief built, iterated once, scheduled.
+
+**V4.6 — Week 4 check-in (2 min)** · ✅ folder+Inbox · global instructions · `CLAUDE.md` · `MEMORY.md` · brief scheduled · 🎤 you'll open your laptop to ~2.5 hrs of work already done. Screenshot the top of your brief (redact private bits) and share.
 
 ### Module 5 — Week 5: Build capability *(raises: Building Capability)*
 **V5.1 — Code without being a coder (5 min)** · 🎤 plain English → a working tool · ▶️ build one tiny utility.
