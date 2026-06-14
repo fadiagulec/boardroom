@@ -268,3 +268,83 @@ After we go through everything, produce a one-page "AI System Map" that document
 - What's missing or incomplete
 - My top 3 gaps (where fixing something would save me the most time)
 ```
+
+---
+
+# Foundations Appendix (from the Claude Mastery Guide, Opus 4.8)
+*Reusable building blocks for the Bonus track. Attach the relevant block to each B-video.*
+
+## The 30 Prompt Principles (cheat sheet)
+1. Be direct and clear — skip "please"; state the task.
+2. Specify the audience and assign a role.
+3. Break complex tasks into sequential steps.
+4. Use affirmative directives ("Do" not "Don't").
+5. Use XML tags to structure input.
+6. Include few-shot examples of the desired format.
+7. Control length explicitly ("in 3 bullets", "300 words").
+8. Use instructional keywords ("Your task is", "You MUST").
+9. Encourage iterative clarification ("ask questions first").
+10. Leverage chain-of-thought ("think step by step").
+11. Use delimiters/tags to separate instruction, example, input.
+12. Combine techniques (CoT + few-shot).
+13. Ask for unbiased, factual responses.
+14. Optimise token usage — concise but sufficient context.
+15. Add output primers (start the answer for it).
+16. (Optional) Incentive framing.
+17. Specify style and format explicitly.
+18. Combine CoT with few-shot for complex tasks.
+19. Use follow-up questions to refine.
+20. Leverage multi-modal/structured-data inputs.
+21. Create iterative sequences (Step 1 → 2 → 3).
+22. Use output primers again for structure.
+23. Experiment and refine iteratively.
+24. Pick a format (bullets, numbered, table, steps, Q&A, email, slides, pro/con).
+25. Set a tone (friendly, professional, enthusiastic, curious, neutral).
+26. "Think step-by-step" as its own prompt section.
+27. Set a style (informative, energetic, professional…).
+28. Avoid hallucination: "Answer if known, else say you don't know."
+29. No extras: "Output only the requested data, no explanation."
+30. Use few-shot to lock behaviour (give input→output examples, then new input).
+
+## Reusable XML structure (the house format)
+```
+<role>You are [specific expert].</role>
+<task>[What to do.]</task>
+<context>[Key facts / constraints.]</context>
+<requirement>Think step-by-step. [Length/format/tone.]</requirement>
+```
+
+## Strategic-use templates
+**Role-based generation**
+```
+<role>You are a [role] specialising in [domain].</role>
+<task>[Specific deliverable].</task>
+<requirement>Think step-by-step and [format/length].</requirement>
+```
+**Few-shot categorisation**
+```
+<instruction>Categorise into [A/B/C], rate sentiment and priority.</instruction>
+<example>Input: "..." → Category: ...; Sentiment: ...; Priority: ...</example>
+<example>Input: "..." → Category: ...; Sentiment: ...; Priority: ...</example>
+<feedback>[INSERT]</feedback>
+```
+**Long-context summary**
+```
+<role>You are a research analyst.</role>
+<task>Summarise this [doc].</task>
+<document>[INSERT]</document>
+<requirement>3-paragraph summary of the most significant points.</requirement>
+```
+**Multiple perspectives**
+```
+<role>You are a mediator.</role>
+<task>Discuss [topic] from 3 perspectives: [A], [B], [C].</task>
+<requirement>Each with concerns, proposed solutions, trade-offs.</requirement>
+```
+
+## Mega-prompt menu (build these out as needed)
+Convert ChatGPT prompts to Claude · Validate a business idea · Speed up code ·
+Summarise annual reports · Generate SaaS ideas · Idea → revenue business ·
+Solve complex problems · Marketing strategy · Business plan · Financial advice ·
+Product–audience fit · Sales strategy · Brand identity · Customer-service ops ·
+HR ops · Leverage AI tools for your business.

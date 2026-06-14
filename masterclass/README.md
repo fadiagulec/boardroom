@@ -28,13 +28,14 @@ Redact private info; otherwise show genuine output (including fixing a first att
 3. Batch-edit in Descript.
 4. Upload + schedule weekly drip.
 
-## Status
-- [x] Module 0 — Welcome + AI Audit (script + worksheet)
-- [x] Module 1 — Foundation (script + worksheet)
-- [x] Prompt library (Weeks 1–6)
-- [ ] Modules 2–6 scripts + worksheets (next)
-- [ ] Week 3 content (awaiting your written week)
-- [ ] Bonus videos (awaiting Mastery Guide content)
+## What's in this kit
+- [x] Modules 0–6 — full scripts (`scripts/`)
+- [x] Bonus "Foundations" track — full scripts (`scripts/bonus-foundations.md`)
+- [x] Worksheets for every module (`worksheets/`)
+- [x] Prompt library (Weeks 1–6) + Foundations appendix (`prompt-library.md`)
+- [x] Frame-by-frame storyboards for every video (`STORYBOARDS.md`)
+- [~] Week 3 (Content engine) = my design pending your final written week — swap in when ready
+- [ ] Record → edit → upload (your part: Stages 2–4 above)
 
 ## Brand setup (do once)
 Pick these before recording so everything matches:

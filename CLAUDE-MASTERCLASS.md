@@ -142,9 +142,20 @@ plan + a worksheet — and every week has a **live call** where people do it wit
 
 **V6.6 — Re-take the AI Audit + what's next (3 min)** · 🎬 baseline vs. now on the same 8 areas, compare /40 · 🎤 set a maintenance rhythm (weekly/monthly/quarterly) · ✅ share before/after, keep building.
 
-### Bonus videos (your "Bonus Resources" section)
+### Bonus track — "Foundations" (from the Claude Mastery Guide, Opus 4.8)
+*A reference library members can watch anytime. Short, demo-led. Sell as the "know Claude cold" companion to the 6-week build.*
+
 **B1 — Chat vs Cowork vs Code: pick the right mode (4 min)** · 🎬 the decision table animated.
-**B2 — Which model? Haiku / Sonnet / Opus (4 min)** · 🎤 *updated to current:* **Haiku 4.5** (fast/cheap quick tasks), **Sonnet 4.6** (default for most work; use extended thinking for hard ones), **Opus 4.8** (deep reasoning, building from scratch). Rule of thumb: start with Sonnet, escalate to Opus when output isn't good enough.
+**B2 — Which model? Haiku / Sonnet / Opus (4 min)** · 🎤 *current models:* **Haiku 4.5** (fast/cheap quick tasks), **Sonnet 4.6** (default for most work; extended thinking for hard ones), **Opus 4.8** (deep reasoning, building from scratch). Rule of thumb: start with Sonnet, escalate to Opus; community framework = "Opus to plan, Sonnet/Haiku to execute."
+**B3 — What Claude can actually do (5 min)** · 🎬 tour: Q&A · analyse documents/images · web research · code + charts · writing · **Artifacts** (interactive React/HTML/SVG in a side panel) · ▶️ show an Artifact built live.
+**B4 — Why Claude over other LLMs (3 min)** · 🎤 reduced sycophancy by design — it pushes back, flags weak logic, says "I'm not sure" instead of faking confidence; best when you need an honest reviewer, not a cheerleader.
+**B5 — Prompt engineering core (6 min)** · 🎬 the building blocks: be direct · assign a role · **XML tags** to structure input · **few-shot** examples · **chain-of-thought** ("think step by step") · control length/format · output primers · "answer if known, else say you don't know" to curb hallucination · ▶️ build one prompt up through each layer.
+**B6 — Prompt chaining (4 min)** · 🎬 break a big task into Research → Outline → Draft → Review, passing outputs between steps with tags · ▶️ run a 3-step chain live.
+**B7 — Skills, deep dive (6 min)** · 🎤 a `SKILL.md` = YAML frontmatter (name + description = the trigger) + Markdown body (when to use, steps, examples, error handling, limits) · 🎬 progressive disclosure (scan ~100 tokens → activate ~5k → execute on demand) vs. Projects loading everything every time · ▶️ build one with the `skill-creator`; note custom Skills need a paid plan + "Code execution and file creation" enabled (Settings → Capabilities).
+**B8 — Projects, deep dive (5 min)** · 🎤 instructions (always-on behaviour) vs. knowledge files (reference, name them well) vs. conversations (not shared chat-to-chat); keep instructions lean, one Project per domain, RAG kicks in automatically on big knowledge bases · ▶️ show a well-written instruction block vs. a vague one.
+**B9 — Connectors / MCP (5 min)** · 🎤 connect Claude to your real tools (Notion, Google Drive, GitHub, Slack, Linear, Zapier) via 2-min OAuth — kills the copy-paste-explain loop · ▶️ "summarise the Q1 plan in Notion" live; note read is stronger than write, scope permissions (least privilege).
+**B10 — The full stack: Projects + Skills + Connectors (4 min)** · 🎬 the comparison: *Projects = what Claude knows · Skills = how Claude works · Connectors = where Claude can reach* · ▶️ one prompt that uses all three (pull a topic from Notion → apply a formatting Skill → in a client Project's voice).
+> Bonus resources to attach: the **30 Prompt Principles**, the **Strategic-Use prompt pack**, and the **Mega-Prompt list** from the guide → drop into `prompt-library.md` as a "Foundations" appendix.
 
 ---
 
@@ -197,8 +208,7 @@ The recorded modules are the **backbone**; these layers make it a live, interact
 - [ ] Set up community: accountability pods, #stuck channel
 
 ---
-*Status: Weeks 1, 2, 4, 5, 6 are aligned to your real written plan. **Week 3 (Content engine)**
-is still my placeholder draft (built from the audit areas) — paste that week and I'll align it
-like the others. Also still to fold in: the **"Claude Mastery Guide (Opus 4.8)"** content for
-the Bonus videos. Credit: the Claude MBA series is by Fadia —
-keep that attribution on any published version.*
+*Status: Weeks 1, 2, 4, 5, 6 aligned to your written plan; the **Bonus "Foundations" track** is
+built from the Claude Mastery Guide (Opus 4.8). Only **Week 3 (Content engine)** is still a
+placeholder draft — paste that week and I'll align it like the others. Credit: the Claude MBA
+series is by Fadia — keep that attribution on any published version.*
