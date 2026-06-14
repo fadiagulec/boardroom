@@ -20,8 +20,12 @@ Two separate jobs: **create** the videos, then **host/deliver** them. Use the be
 | Edit + captions | **Descript** | Edit by transcript, remove filler, auto-captions |
 | Optional host/presenter | **HeyGen** / **Synthesia** | AI host for intros without filming |
 | Promo clips | **Opus Clip** | Auto-cut reels for IG/LinkedIn/X |
+| **Live calls / webinars** | **Zoom** or **StreamYard** (+ record) | Run weekly live sessions; reuse the recordings as lessons |
+| **High-quality live record** | **Riverside** | Records each side in full HD locally — great for live calls you'll repurpose |
 
-**Lean recommended stack:** Gamma → Screen Studio/Tella → Descript. (HeyGen only for intros.)
+**Lean recommended stack:** Gamma → Screen Studio/Tella → Descript for the core lessons; **Zoom/Riverside** for the live calls. (HeyGen only for intros.)
+
+> **"Show everything" rule:** the core demos are **full, uncut screen walkthroughs** — every click, every menu, real Claude output. No skipping, no slide-only explaining. Slides are bookends; the screen recording is the lesson.
 
 ### Host & deliver
 | Your goal | Platform |
@@ -32,13 +36,16 @@ Two separate jobs: **create** the videos, then **host/deliver** them. Use the be
 | Fastest launch / one-off sale | **Gumroad** |
 | Clean video playback inside any of the above | **Vimeo** / Wistia |
 
-**Recommendation for this series:** host on **Skool** — a 6-week challenge *needs* a community to
-post wins (your plan already asks people to share milestones), and Skool drips content + gates it
-simply. Embed each lesson via **Vimeo**. If you want zero community overhead, **Teachable** with
-weekly drip is the clean alternative; **Gumroad** if you want it live this week.
+**Recommendation for this series (now that it's live + interactive):** host on **Skool**. It's
+built for exactly this — drip the recorded lessons by week, run a **weekly live call** from its
+built-in calendar, and give members a feed to post wins and ask questions between calls. Embed
+recorded lessons via **Vimeo**; run live calls in **Zoom/Riverside** and post the replay back
+into the week. (Teachable/Kajabi can do live too via Zoom, but Skool's community + calendar combo
+is the most *interactive* out of the box.)
 
-**Format that converts:** one video per *action* (not per week). 3–8 min each. Every video ends
-with the same checkbox action that's already in your written plan, plus a 1-page worksheet.
+**Format that converts:** one **full walkthrough** video per *action* (not per week), 3–10 min,
+showing everything on screen. Every video ends with the same checkbox action from your written
+plan + a worksheet — and every week has a **live call** where people do it with you.
 
 ---
 
@@ -135,6 +142,41 @@ with the same checkbox action that's already in your written plan, plus a 1-page
 
 ---
 
+## Part B+ — Make it interactive & live
+
+The recorded modules are the **backbone**; these layers make it a live, interactive experience.
+
+### 1. Delivery model — run it as a live cohort (recommended)
+- **Hybrid cohort:** recorded lessons drip each week + **one live call per week** (6 calls total). People watch the lesson, then show up live to do it with you. This is the most interactive and the easiest to sell.
+- Evergreen alternative: keep the recordings self-paced and run a **monthly** live call so it never goes stale.
+
+### 2. The weekly live call (60–75 min, same shape each week)
+1. **Win wall (5 min)** — celebrate what people shipped last week.
+2. **Live build (25–30 min)** — you do that week's action *live on screen, showing everything*, narrating decisions in real time.
+3. **Hot seats (20 min)** — 2–3 members share their screen; you fix their setup live.
+4. **Q&A (10 min)** — open questions.
+5. **Commitment (5 min)** — everyone types their goal for the week in chat.
+> Record every call → post the replay into that week's module. Your live calls *become* future content.
+
+### 3. "Build alongside me" — interactivity inside the videos
+- **Pause-and-do cards:** "⏸ Pause here and do this now" after each step, so it's active, not passive.
+- **Split-screen demos:** your screen + a small cam, so it feels like co-working.
+- **Fill-in worksheets** open beside the video (already in the kit) — they type as they watch.
+- **Checkpoints:** end each module with a 3–5 question check ("did your setting save? does the skill trigger?").
+
+### 4. Community interaction (between calls)
+- A **post template per week** ("This week I built ___, here's my screenshot") to drive the win-sharing your plan already encourages.
+- **Accountability pods** of 3–4 people.
+- A **#stuck channel** where you (or a pinned FAQ) answer fast.
+- **Leaderboard / badges** per completed week (Skool does this natively).
+
+### 5. Live tooling
+- Run calls in **Zoom** or **Riverside** (Riverside = best replay quality), screen-share Claude directly.
+- For polished multi-source live (slides + cam + comments) use **StreamYard**.
+- Put call dates on the **Skool calendar**; auto-post the replay to the week's module.
+
+---
+
 ## Part C — Production checklist
 - [ ] Lock module list above (already mapped to your 6 weeks)
 - [ ] Update model references everywhere to **Opus 4.8 / Sonnet 4.6 / Haiku 4.5** (guide currently says 4.6)
@@ -146,6 +188,9 @@ with the same checkbox action that's already in your written plan, plus a 1-page
 - [ ] Upload to Vimeo → embed in Skool/Teachable, drip 1 module/week
 - [ ] 1-page worksheet per module (Gamma/Canva → PDF) — reuse the existing checkboxes
 - [ ] Cut promo clips with Opus Clip; soft-launch to current subscribers first
+- [ ] Add pause-and-do cards + a 3–5 question checkpoint to each module
+- [ ] Schedule the 6 weekly live calls on the Skool calendar (Zoom/Riverside)
+- [ ] Set up community: weekly post template, accountability pods, #stuck channel
 
 ---
 *Status: Weeks 1, 2, 4, 5, 6 are aligned to your real written plan. **Week 3 (Content engine)**
