@@ -20,10 +20,9 @@ Two separate jobs: **create** the videos, then **host/deliver** them. Use the be
 | Edit + captions | **Descript** | Edit by transcript, remove filler, auto-captions |
 | Optional host/presenter | **HeyGen** / **Synthesia** | AI host for intros without filming |
 | Promo clips | **Opus Clip** | Auto-cut reels for IG/LinkedIn/X |
-| **Live calls / webinars** | **Zoom** or **StreamYard** (+ record) | Run weekly live sessions; reuse the recordings as lessons |
-| **High-quality live record** | **Riverside** | Records each side in full HD locally — great for live calls you'll repurpose |
+| **Live calls (DECIDED)** | **Zoom** (recording on) | Run the weekly live sessions; reuse the recordings as replays |
 
-**Lean recommended stack:** Gamma → Screen Studio/Tella → Descript for the core lessons; **Zoom/Riverside** for the live calls. (HeyGen only for intros.)
+**Lean recommended stack:** Gamma → Screen Studio/Tella → Descript for the core lessons; **Zoom** for the live calls. (HeyGen only for intros.)
 
 > **"Show everything" rule:** the core demos are **full, uncut screen walkthroughs** — every click, every menu, real Claude output. No skipping, no slide-only explaining. Slides are bookends; the screen recording is the lesson.
 >
@@ -46,8 +45,8 @@ Two separate jobs: **create** the videos, then **host/deliver** them. Use the be
 **Recommendation for this series (now that it's live + interactive):** host on **Skool**. It's
 built for exactly this — drip the recorded lessons by week, run a **weekly live call** from its
 built-in calendar, and give members a feed to ask questions and get help between calls. Embed
-recorded lessons via **Vimeo**; run live calls in **Zoom/Riverside** and post the replay back
-into the week. (Teachable/Kajabi can do live too via Zoom, but Skool's community + calendar combo
+recorded lessons via **Vimeo**; run live calls in **Zoom** (record every call) and post the replay
+back into the week. (Teachable/Kajabi can do live too via Zoom, but Skool's community + calendar combo
 is the most *interactive* out of the box.)
 
 **Format that converts:** one **full walkthrough** video per *action* (not per week), 3–10 min,
@@ -175,10 +174,10 @@ The recorded modules are the **backbone**; these layers make it a live, interact
 - A **#stuck channel** where you (or a pinned FAQ) answer fast.
 - **Progress badges** per completed week (Skool does this natively).
 
-### 5. Live tooling
-- Run calls in **Zoom** or **Riverside** (Riverside = best replay quality), screen-share Claude directly.
-- For polished multi-source live (slides + cam + comments) use **StreamYard**.
-- Put call dates on the **Skool calendar**; auto-post the replay to the week's module.
+### 5. Live tooling — DECIDED: **Zoom**
+- Run the weekly live calls in **Zoom**, screen-sharing Claude directly (turn on **cloud/local recording** every time).
+- Put each call on the **Skool calendar** with the Zoom link; after the call, upload the Zoom recording back into that week's module as the replay.
+- Settings to get right: enable recording by default, allow screen share, and (optional) a co-host to watch chat/admit people while you teach.
 
 ---
 
