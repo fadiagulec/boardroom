@@ -45,7 +45,7 @@ Two separate jobs: **create** the videos, then **host/deliver** them. Use the be
 
 **Recommendation for this series (now that it's live + interactive):** host on **Skool**. It's
 built for exactly this — drip the recorded lessons by week, run a **weekly live call** from its
-built-in calendar, and give members a feed to post wins and ask questions between calls. Embed
+built-in calendar, and give members a feed to ask questions and get help between calls. Embed
 recorded lessons via **Vimeo**; run live calls in **Zoom/Riverside** and post the replay back
 into the week. (Teachable/Kajabi can do live too via Zoom, but Skool's community + calendar combo
 is the most *interactive* out of the box.)
@@ -86,7 +86,7 @@ plan + a worksheet — and every week has a **live call** where people do it wit
 **V2.4 — The handover: never lose context (5 min)** · 🎬 show a chat degrading (vaguer answers, repetition) — "it's not getting worse, it's full" · ▶️ run the handover prompt, paste the doc into a fresh chat, continue seamlessly · 🎤 also use it when switching models · ✅ save the handover prompt somewhere accessible.
 > Provide the handover prompt as a copy-paste resource.
 
-**V2.5 — Week 2 checkpoint + test it (2 min)** · ✅ architecture agreed · shells created · instructions loaded for top 2–3 · docs uploaded · handover prompt saved · 🎤 test: open your content project, ask something normal, feel the difference. Share your win.
+**V2.5 — Week 2 checkpoint + test it (2 min)** · ✅ architecture agreed · shells created · instructions loaded for top 2–3 · docs uploaded · handover prompt saved · 🎤 test: open your content project, ask something normal, feel the difference.
 
 ### Module 3 — Week 3: Content engine *(raises: Creation Speed, Content Quality)*
 **V3.1 — Idea → outline → draft (6 min)** · ▶️ run a real post from blank to draft inside your Project.
@@ -157,12 +157,11 @@ The recorded modules are the **backbone**; these layers make it a live, interact
 - **Hybrid cohort:** recorded lessons drip each week + **one live call per week** (6 calls total). People watch the lesson, then show up live to do it with you. This is the most interactive and the easiest to sell.
 - Evergreen alternative: keep the recordings self-paced and run a **monthly** live call so it never goes stale.
 
-### 2. The weekly live call (60–75 min, same shape each week)
-1. **Win wall (5 min)** — celebrate what people shipped last week.
-2. **Live build (25–30 min)** — you do that week's action *live on screen, showing everything*, narrating decisions in real time.
+### 2. The weekly live call (55–65 min, same shape each week)
+1. **Recap + this week's goal (5 min)** — what we're building today and why.
+2. **Live build (30 min)** — you do that week's action *live on screen, showing everything*, narrating decisions in real time.
 3. **Hot seats (20 min)** — 2–3 members share their screen; you fix their setup live.
 4. **Q&A (10 min)** — open questions.
-5. **Commitment (5 min)** — everyone types their goal for the week in chat.
 > Record every call → post the replay into that week's module. Your live calls *become* future content.
 
 ### 3. "Build alongside me" — interactivity inside the videos
@@ -172,10 +171,9 @@ The recorded modules are the **backbone**; these layers make it a live, interact
 - **Checkpoints:** end each module with a 3–5 question check ("did your setting save? does the skill trigger?").
 
 ### 4. Community interaction (between calls)
-- A **post template per week** ("This week I built ___, here's my screenshot") to drive the win-sharing your plan already encourages.
-- **Accountability pods** of 3–4 people.
+- **Accountability pods** of 3–4 people working through the week together.
 - A **#stuck channel** where you (or a pinned FAQ) answer fast.
-- **Leaderboard / badges** per completed week (Skool does this natively).
+- **Progress badges** per completed week (Skool does this natively).
 
 ### 5. Live tooling
 - Run calls in **Zoom** or **Riverside** (Riverside = best replay quality), screen-share Claude directly.
@@ -197,7 +195,7 @@ The recorded modules are the **backbone**; these layers make it a live, interact
 - [ ] Cut promo clips with Opus Clip; soft-launch to current subscribers first
 - [ ] Add pause-and-do cards + a 3–5 question checkpoint to each module
 - [ ] Schedule the 6 weekly live calls on the Skool calendar (Zoom/Riverside)
-- [ ] Set up community: weekly post template, accountability pods, #stuck channel
+- [ ] Set up community: accountability pods, #stuck channel
 
 ---
 *Status: Weeks 1, 2, 4, 5, 6 are aligned to your real written plan. **Week 3 (Content engine)**
