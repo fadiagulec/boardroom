@@ -114,13 +114,20 @@ with the same checkbox action that's already in your written plan, plus a 1-page
 **V5.6 — Save & publish (5 min)** · ▶️ web app → push to **GitHub**, deploy on **Vercel** (Claude walks you through git init → repo → push → connect → live URL); other tools → back it up/share per Claude's guidance · 🎤 first time ~20–30 min; updates ~30 sec after.
 
 **V5.7 — Week 5 check-in (2 min)** · ✅ Code in Antigravity · folder in cloud · `CLAUDE.md` · permissions · `PRD.md` · first tool built + iterated · share the build.
-> Optional aside (your product): for business tasks you'd otherwise build from scratch, mention **Boardroom** — 111 ready-made Claude skills (`fadiagulec/boardroom`) as a no-build shortcut.
 
-### Module 6 — Week 6: Integration + re-Audit *(raises: Workflow Integration, Confidence)*
-**V6.1 — Your AI operating rhythm (5 min)** · 🎬 a daily/weekly map of which mode + specialist runs what.
-**V6.2 — Build your personal AI org chart (4 min)** · ▶️ assign business functions to modes/specialists.
-**V6.3 — Re-take the AI Audit (3 min)** · 🎬 baseline vs. now, score the same 8 areas · ✅ compare /40, share the jump.
-**V6.4 — What's next (2 min)** · community, advanced builds, keep documenting.
+### Module 6 — Week 6: Make it a system (Skills + integration) *(raises: Workflow Integration, Confidence)*
+
+**V6.1 — Skills: instructions Claude gives itself (5 min)** · 🎬 "Project = *who you are*; Skill = *how to do a specific job*" · 🎤 skills auto-trigger when your request matches, work across Chat/Cowork, are global; a `SKILL.md` folder · 🎤 prompt vs. skill: a prompt you must remember/find/paste; a skill just activates when you're doing the same work repeatedly.
+
+**V6.2 — The 3 ways to build a skill (4 min)** · 🎬 Method 1 build upfront from a good prompt/SOP · Method 2 do the work first, then convert (best — captures what you actually did) · Method 3 off-the-shelf · 🎤 *off-the-shelf tie-in (your product):* **Boardroom** = 111 ready-made skills (`fadiagulec/boardroom`) — instant Method-3 specialists you can use as-is or customise.
+
+**V6.3 — Build your first skill, Method 2 (6 min)** · ▶️ do a recurring task end-to-end, then run the "turn this into a skill" prompt (principles vs. exact-steps), save the `SKILL.md`, test by describing the task without naming the skill · 🎬 show the 5 starter skills (voice writer, meeting prep, weekly review, content repurposer, research brief) · ✅ one skill built + tested.
+
+**V6.4 — Run your system audit → AI System Map (5 min)** · ▶️ run the 7-area audit prompt (Projects · Cowork · Code · Skills · Workflows · Recurring tasks · Integrations) → produce a one-page **AI System Map** (working / set-up-but-unused / missing / top-3 gaps) · ✅ map saved where you'll revisit it.
+
+**V6.5 — Efficiency vs. Innovation AI: your next builds (4 min)** · 🎬 efficiency = speed up what you do; innovation = things that weren't practical before (the bigger wins) · ▶️ fill the opportunity table (time saved · what's needed · setup time), pick **top 3** as next month's roadmap.
+
+**V6.6 — Re-take the AI Audit + what's next (3 min)** · 🎬 baseline vs. now on the same 8 areas, compare /40 · 🎤 set a maintenance rhythm (weekly/monthly/quarterly) · ✅ share before/after, keep building.
 
 ### Bonus videos (your "Bonus Resources" section)
 **B1 — Chat vs Cowork vs Code: pick the right mode (4 min)** · 🎬 the decision table animated.
@@ -141,7 +148,8 @@ with the same checkbox action that's already in your written plan, plus a 1-page
 - [ ] Cut promo clips with Opus Clip; soft-launch to current subscribers first
 
 ---
-*Still to integrate: the "Claude Mastery Guide (Opus 4.8)" content (couldn't be auto-read — paste
-it and I'll slot it into the Bonus videos + Weeks 2–3). Weeks 3–6 of your written plan were still
-being built; I've drafted them from the audit areas so the video course is complete end-to-end —
-adjust once your written weeks ship.*
+*Status: Weeks 1, 2, 4, 5, 6 are aligned to your real written plan. **Week 3 (Content engine)**
+is still my placeholder draft (built from the audit areas) — paste that week and I'll align it
+like the others. Also still to fold in: the **"Claude Mastery Guide (Opus 4.8)"** content for
+the Bonus videos. Credit: the written Claude MBA series is by Tayla Burrell (@taylaburrell) —
+keep that attribution on any published version.*
