@@ -1,0 +1,78 @@
+# 30-Day Instagram Reels Content Plan — "Building with Claude Code"
+
+**Creator:** Fadia · 55, mom of 4, 30 years in corporate, no tech background, 8 apps built with Claude Code
+**Platform:** Instagram Reels · **Cadence:** Daily (30 in 30) · **Time budget:** 3–5 hrs/week
+**Optimizing for:** Follows (growth) + Shares + Conversions
+
+---
+
+## Audience
+Career-changers and "non-technical" people 35–60 — especially women and parents — who feel
+anxious AI will leave them behind, are curious but intimidated, and secretly want permission and
+a roadmap to start. Secondary: aspiring solopreneurs who want to build and sell small apps.
+
+## Content Pillars
+| Pillar | What it does | Primary purpose |
+|---|---|---|
+| **P1 · Late Bloomer** (personal story) | The journey at 55, fears, family, identity | Connection |
+| **P2 · Build With Me** (tutorials/demos) | Step-by-step Claude Code, screen-recorded | Authority |
+| **P3 · Proof & Profit** (the apps) | Reveals of the 8 apps + how they make money | Shares / Conversion |
+| **P4 · AI for the Rest of Us** (mindset) | Future of work, myth-busting, "you're not too late" | Growth |
+
+## Realistic production plan (3–5 hrs/week)
+- **Batch-film twice a week:** Sunday (film 4 reels) + Wednesday (film 3).
+- **Screen-record P2/P3 days while actually building** — zero extra time.
+- **One caption + cover template** so editing stays ~30 min/reel.
+- Total ≈ 3.5–4.5 hrs/week. Sustainable, not aspirational.
+
+## Hook rules used
+- Curiosity gap or emotional reaction in the first 3 seconds.
+- Specific over generic ("I built 8 apps" not "here's how to use AI").
+- Contrast wherever possible (before/after, belief vs. truth, expected vs. unexpected).
+- Verbal hook, on-screen text, and caption hook are all **different** — same idea, three angles.
+
+## Balance
+Authority ×10 · Growth ×9 · Connection ×6 · Conversion-CTA reels ×5. No format runs more than 2 days in a row.
+
+---
+
+## The 30-Day Calendar
+
+Purpose key: Growth = reach new people · Authority = build trust · Connection = deepen relationship · Conversion = drive to product/link/list.
+
+| Day | Pillar | Format | Topic / Angle | Verbal Hook | On-Screen Text | Caption Hook | CTA | Purpose |
+|---|---|---|---|---|---|---|---|---|
+| 1 | P1 | Talking head + montage | Hero-story intro: 55, mom of 4, built 8 apps | "I'm 55, a mom of four, and I just built 8 apps." | No tech background. 8 apps. | Everyone said AI would take our jobs — so I learned to build with it. | Follow for all 30 days | Growth |
+| 2 | P4 | Talking head | Why I started: the job-loss news that triggered me | "I kept seeing people lose their jobs to AI." | The news that changed my life | I could've panicked. I did the opposite. | Comment if AI scares you too | Growth |
+| 3 | P2 | Screen-record | Install Claude Code in under 2 min | "You can install this in under two minutes." | Your first 2 minutes with AI | The exact steps I used — zero tech skills. | Save this for when you start | Authority |
+| 4 | P4 | Talking head + B-roll | Myth-bust: I don't code, I describe | "I don't write code. I just talk to it." | It builds. I just describe. | People think I learned to code. I didn't. | Follow to watch me build | Growth |
+| 5 | P2 | Screen-record demo | Build a website in 5 min, no code | "Watch me build a website in five minutes." | 5 minutes. Zero code. | Send this to anyone who thinks websites are hard. | Share with someone who needs a website | Authority/Growth |
+| 6 | P3 | Before/after reveal | Calorie app: photo → calories | "I made an app that counts calories from a photo." | I built this. From a photo. | Snap a meal, get the calories. Built in an afternoon. | Comment 'build' for how | Connection/Conversion |
+| 7 | P1 | Talking head | My 4 kids didn't believe I built it | "My kids didn't believe I built this." | Mom, YOU made that? | At 55 I became the most techy person in my house. | Tag a late bloomer | Connection |
+| 8 | P2 | Screen-record | Deploy your app online for free | "Your app is useless until it's online." | Laptop → live link | Nobody can use what only lives on your laptop. | Save this for launch day | Authority |
+| 9 | P4 | Talking head | Too late to start? I started at 55 | "Everyone says it's too late to start with AI." | Too late? I started at 55. | The best time was a year ago. The second best is now. | Send to someone who thinks they missed it | Growth |
+| 10 | P3 | Talking head + screen | How a tiny app can make money | "An app like this can earn while you sleep." | How a tiny app earns | At 55 I finally understand passive income. | Comment 'money' for the breakdown | Conversion |
+| 11 | P2 | Screen-record | CLAUDE.md — teach it your project | "This one file made my AI 10x smarter." | Type this. Thank me later. | The setup step nobody tells beginners. | Save before your next build | Authority |
+| 12 | P1 | Talking head | The fear before I clicked install | "I almost didn't click install." | The night I almost quit | That black terminal screen made me feel 12 again. | Comment if you're scared to start | Connection |
+| 13 | P3 | Reveal | Healing app for winding down at night | "I built an app that calms me down at night." | I built this for my anxiety | I couldn't find the app I needed, so I made it. | Share with someone who'd use this | Growth/Shares |
+| 14 | P2 | Screen-record | How to prompt: goals, not commands | "Stop telling AI to make an app. Say this." | The prompt that changed everything | One sentence: the difference between a mess and magic. | Save this prompt formula | Authority |
+| 15 | P4 | Talking head | 30 yrs corporate → what AI now automates | "I spent 30 years doing what AI does in seconds." | 30 years. Gone in seconds. | I'm not bitter about it. I'm using it. | Follow if your job is changing too | Growth |
+| 16 | P2 | Screen-record | Plan Mode: make it plan before building | "I make the AI show its plan before it touches anything." | Blueprint before concrete | The button that stopped my AI going rogue. | Save for your first build | Authority |
+| 17 | P1 | Day-in-the-life | A day building apps at 55 | "This is a day building apps at 55." | 5am. Coffee. Build. (Sort of.) | A grandma-aged woman, a terminal, and a list of apps. | Follow the journey | Connection |
+| 18 | P3 | Reveal | Virtual assistant app | "I built my own assistant so I'd stop forgetting things." | My personal AI assistant | I replaced 5 apps with one I built myself. | Tag someone who needs this | Growth/Shares |
+| 19 | P2 | Screen-record | What I do when it breaks (errors) | "When the screen fills with red, do this." | Red errors = don't panic | The scariest part of building is the easiest to fix. | Save for your first error | Authority |
+| 20 | P4 | Talking head + text | Myth: you need to be technical | "You think you need to be technical. You don't." | Not technical. Still building. | I can't fix my own printer. I built 8 apps. | Send to someone who says I'm not techy | Growth/Shares |
+| 21 | P3 | Talking head + screen | Idea → sellable app (the 3 steps) | "Here's how a free idea becomes something you can sell." | Idea → app → income | 3 steps between a shower thought and a product. | Comment 'sell' for my breakdown | Conversion |
+| 22 | P2 | Screen-record | Screenshot → design trick | "I designed my app by screenshotting one I liked." | Steal the look (legally) | No design skills? Neither do I. I use this. | Save this design hack | Authority |
+| 23 | P1 | Talking head | What people said when I told them | "When I told people I was building apps at 55..." | Isn't that for young people? | Half cheered. Half looked at me like I'd lost it. | Tag your biggest supporter | Connection |
+| 24 | P3 | Reveal (meta) | Content-creation app (makes these reels) | "I built an app that writes my content with me." | The app behind these reels | Meta moment: I built the tool that posts this. | Share with a creator | Growth/Shares |
+| 25 | P2 | Screen-record | Make it work on phones (responsive) | "Most people open your app on a phone. Don't skip this." | Make it perfect on phones | The step that makes your app feel real. | Save for your build | Authority |
+| 26 | P4 | Talking head | If AI scares you, watch this | "If AI scares you, I need you to hear this." | Scared of AI? Watch this. | Fear kept me stuck for months. Here's what broke it. | Send to someone who's afraid | Growth/Shares |
+| 27 | P2 | Screen-record | Build a feature YOU requested, live | "You asked for this feature, so I built it live." | You commented. I built it. | This app is being built by you in the comments. | Comment your next feature request | Authority/Comments |
+| 28 | P3 | Fast montage | All 8 apps in 60 seconds | "Every app I've built, in 60 seconds." | 8 apps. No tech background. | A year ago I couldn't open Terminal. Here's all 8. | Save this as proof it's possible | Conversion |
+| 29 | P1 | Talking head | What 30 days taught me (emotional) | "Thirty days ago I thought AI would replace me." | What 30 days changed | I started this scared. I'm ending it unrecognizable. | Comment 'Day 1' if you start today | Connection |
+| 30 | P4 | Talking head + CTA | Your turn — start today (+ lead magnet) | "Your turn. You can start this today." | Now it's your turn. | If a 55-year-old mom of 4 can build 8 apps, what's your excuse? | Comment 'START' — I'll send you step 1 | Growth/Conversion |
+
+---
+
+*Companion file: `30-day-content-plan.csv` — import into Notion / Airtable / Google Sheets as a database.*
