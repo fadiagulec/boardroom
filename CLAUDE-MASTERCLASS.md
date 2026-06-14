@@ -98,10 +98,23 @@ with the same checkbox action that's already in your written plan, plus a 1-page
 
 **V4.6 — Week 4 check-in (2 min)** · ✅ folder+Inbox · global instructions · `CLAUDE.md` · `MEMORY.md` · brief scheduled · 🎤 you'll open your laptop to ~2.5 hrs of work already done. Screenshot the top of your brief (redact private bits) and share.
 
-### Module 5 — Week 5: Build capability *(raises: Building Capability)*
-**V5.1 — Code without being a coder (5 min)** · 🎤 plain English → a working tool · ▶️ build one tiny utility.
-**V5.2 — The shortcut: install an AI workforce (6 min)** · 🎬 reveal **Boardroom** — 111 specialists/skills · ▶️ Customize → Plugins → `fadiagulec/boardroom` → Sync · 🎤 instead of building every tool, install trained specialists.
-**V5.3 — Put specialists to work (5 min)** · ▶️ run 2–3 specialists (e.g. outreach, copywriting, strategy) on real tasks; chain their outputs · ✅ one specialist embedded in your week.
+### Module 5 — Week 5: Claude Code (build a real tool) *(raises: Building Capability)*
+> The most technical week — reassure up front: you talk in plain English; when stuck, paste the error and ask Claude. "Cowork is my assistant; Code is my engineer."
+
+**V5.1 — What Claude Code is (3 min)** · 🎬 the three modes recap: Chat (you decide) · Cowork (assistant) · Code (engineer that plans, acts, checks its own work) · 🎤 it lives in the terminal but you never write code — type `claude` and talk.
+
+**V5.2 — Install + Antigravity (6 min)** · ▶️ working folder in **cloud storage** (iCloud/Drive/Dropbox) · install via the one-line terminal command (Mac `curl … | bash` / Windows `irm … | iex`), run `claude`, log in · install **Antigravity** IDE + the official "Claude Code for VS Code" extension, open your folder, open the Claude panel · 🎤 the IDE gives you a visual layer so you see files change · ✅ Code running in Antigravity.
+
+**V5.3 — `CLAUDE.md` + permissions (4 min)** · ▶️ reuse your Phase-4 `CLAUDE.md` (or build a <300-word one in Chat) in the working folder · run `/permissions` to pre-approve safe commands (ls, cd, mv, cp, cat, open), file reads, and web fetch · 🎤 so it stops interrupting but still asks before anything important · ✅ briefed + permissioned.
+
+**V5.4 — Spec it first: the PRD (5 min)** · 🎤 "you don't know what you don't know" — a PRD is the highest-leverage step; spend the most time here · ▶️ run the PRD interview prompt in Chat, save `PRD.md` to the folder; add a `references/` subfolder (brand, assets, audience) · ✅ PRD saved.
+
+**V5.5 — Build it (Plan mode → build) (7 min)** · ▶️ in Antigravity switch to **Plan mode** (Shift+Tab), start on **Opus**; prompt it to install Anthropic's frontend-design skill, read `CLAUDE.md` + `PRD.md` + references, then write a plan · review/edit the plan, switch to "Ask before edits," let it build · 🎤 watch the context bar — `/compact` manually at 50–60%; drag in any outside file it needs · ✅ first version built + one round of feedback.
+
+**V5.6 — Save & publish (5 min)** · ▶️ web app → push to **GitHub**, deploy on **Vercel** (Claude walks you through git init → repo → push → connect → live URL); other tools → back it up/share per Claude's guidance · 🎤 first time ~20–30 min; updates ~30 sec after.
+
+**V5.7 — Week 5 check-in (2 min)** · ✅ Code in Antigravity · folder in cloud · `CLAUDE.md` · permissions · `PRD.md` · first tool built + iterated · share the build.
+> Optional aside (your product): for business tasks you'd otherwise build from scratch, mention **Boardroom** — 111 ready-made Claude skills (`fadiagulec/boardroom`) as a no-build shortcut.
 
 ### Module 6 — Week 6: Integration + re-Audit *(raises: Workflow Integration, Confidence)*
 **V6.1 — Your AI operating rhythm (5 min)** · 🎬 a daily/weekly map of which mode + specialist runs what.
