@@ -84,6 +84,79 @@ Write it so a fresh Claude can read it cold and be immediately useful.
 
 ---
 
+## Week 3 — Audience Research Brief (run across 3+ tools in deep-research mode)
+```
+You are a market researcher specialising in audience analysis for personal brands and content businesses. I need deep, specific research on my target audience. Do not give me generic marketing advice. I need real insights.
+My niche: [describe your niche, topic area, and what you create content about]
+My audience: [describe who you think your audience is — their role, situation, and what they're trying to do]
+Research the following 8 dimensions. For each, be specific. Use real language patterns, real community discussions, and real data where possible. No generic personas.
+1. WHO THEY ARE — demographics, psychographics, income range, identity labels they use. How do they describe what they do?
+2. WHAT THEY WANT — goals, aspirations, the transformation they're seeking. What does success look like in 6–12 months?
+3. WHAT'S STOPPING THEM — pain points, barriers, frustrations. What do they complain about in private that they don't post publicly?
+4. THE LANGUAGE THEY USE — exact phrases, slang, recurring themes from Reddit, LinkedIn, X, relevant communities. How do they talk when they think nobody important is listening?
+5. WHAT THEY SPEND MONEY ON — price thresholds, buy vs not-buy triggers, what they consider "worth it." What have they tried and been disappointed by?
+6. HOW THEY CONSUME CONTENT — platforms, creators they trust, formats they save vs skip, podcasts/newsletters. Where do they go to learn?
+7. THE COMPETITIVE LANDSCAPE — who else serves this audience, what they do well, where the gaps are. What's nobody covering that they need?
+8. WHAT SUCCESS LOOKS LIKE — their dream state, including the emotional outcome.
+Where to look: Reddit communities for [niche], LinkedIn, X, relevant podcasts, newsletters, course reviews, Amazon book reviews in [topic].
+Output: structure into the 8 sections. For each — lead with the key finding; include data points and sources; include DIRECT QUOTES from real people (their actual language); flag surprises/contradictions; note confidence (high/medium/low). At the end: a vivid "Day in the Life" profile; the 5 most important insights for building a brand + paid offer; recommended language to use and to avoid.
+```
+
+## Week 3 — Research Synthesis (run in your content Project with the reports uploaded)
+```
+I've run deep audience research across multiple AI tools for my brand [BRAND NAME], targeting [ONE-SENTENCE AUDIENCE]. I'm attaching [NUMBER] separate research reports covering the same audience from different angles and source pools.
+Synthesise these into ONE consolidated audience research document — the single source of truth for my positioning and content strategy.
+Approach: 1) Cross-reference — where reports agree = high-confidence; where they disagree, flag it (don't smooth over tensions). 2) Prioritise direct quotes and exact language. 3) Distinguish hard data (named sources) from interpretation; label confidence. 4) Synthesise, don't concatenate.
+Output structure: Opening paragraph (the audience in one paragraph) · 1 Market Size & Validation · 2 Who They Are (incl. sub-segments) · 3 What They Want (their language; practical + emotional) · 4 What They Reject (trust-breakers, "guru alarm") · 5 Pain Points (real barriers, what "stuck" looks like) · 6 How They Talk (use vs avoid) · 7 Spending & Investment Behaviour · 8 Competitive Landscape · 9 Day in the Life · 10 Five Strategic Insights.
+For each section: lead with the key finding in bold; use direct quotes; note confidence; flag surprises. Detailed enough to fully understand the audience, concise enough to read in 15–20 minutes.
+```
+
+## Week 3 — Brain Dump & Belief Interview (answer before the strategy prompt)
+```
+BRAIN DUMP (voice-note or jot fast):
+- What do you want to be known for? Which creators do you want to emulate (and what about them)?
+- How do you want your audience to feel? Where do they hang out / where will you post?
+- Your content pillars? A tagline you keep returning to?
+- What would you eventually like to sell? (course, cohort, coaching, product, service, community, consulting, brand deals, or "not sure")
+- What does your life realistically look like — time, constraints?
+
+BELIEF INTERVIEW (be specific, honest, opinionated — this is where positioning lives):
+1. What do you want to be known for in 3 years?
+2. What do you believe about your topic that most people in your space would disagree with?
+3. What makes you genuinely angry about how your industry operates?
+4. What have you figured out the hard way that your audience hasn't yet?
+5. What do you never want to be associated with?
+```
+
+## Week 3 — Brand & Content Strategy (new chat · Opus + extended thinking · research doc in Project)
+```
+You are a brand + content strategist building a complete positioning and content strategy for a creator-led business. You have two inputs:
+1. A consolidated audience research document (in project files) — evidence on the target audience.
+2. The creator's strategy intake answers (pasted below) — their story, beliefs, voice, audience intuition, business context.
+Synthesise both into one strategy document. The research is the evidence; the intake is the soul. It must feel like it could only belong to THIS person targeting THIS audience.
+Build: 1 WHAT THIS BRAND IS (2–3 paras, third person) · 2 THE STRATEGIC INSIGHT (the "aha") · 3 POSITIONING (positioning statement; 3 one-line options; the promise; 4–6 signature beliefs) · 4 AUDIENCE DEFINITION (who/what they want/what they reject/Day in the Life) · 5 BRAND VOICE & TONE (archetype; DO/DON'T; language to use/avoid; regional notes) · 6 CONTENT PILLARS (3–5; name, what it covers, why it matters, formats/platforms, funnel role) · 7 PLATFORM STRATEGY (priority order, cadence for their time, mix, CTA, platform rules) · 8 CONTENT QUALITY CHECKLIST (5–7 specific questions) · 9 LEAD MAGNET & FUNNEL DIRECTION · 10 MONETISATION DIRECTION (first offer price band + rationale; 2–3 formats; value ladder) · 11 STAGE GATES & ANTI-PATTERNS.
+Rules: clear/direct tone; use the creator's own language; ground every recommendation in a research finding or stated belief (no generic advice); flag judgment calls with reasoning; comprehensive enough to hand to anyone and produce on-brand content. [PASTE BRAIN DUMP + BELIEF ANSWERS BELOW]
+```
+
+## Week 3 — 30-Day Content Plan (run in your content Project)
+```
+Using my content strategy and audience research (already in this project), create a 30-day content plan for [platform(s)].
+Consider: my content pillars; my platforms and cadence; my audience; high-performing content on [platform] where 'high performing' = [high comments / follows / shares / conversions].
+My current content ideas to fit in where they best fit: [insert ideas].
+For each piece include: the content pillar; the format; a specific topic/angle; 3 high-performing hook options; the CTA; the purpose (growth / authority / connection).
+The plan should follow my cadence, mix formats across the month, balance growth/authority/connection, account for [X hours/week], and be realistic not aspirational.
+Hook rules: create a curiosity gap or emotional reaction in 3 seconds; be specific ("I built X" > "Here's how to use AI"); use contrast; for video, the verbal hook, on-screen text, and caption hook must all be DIFFERENT; no "In this post…"/"Today I'm going to…".
+For each piece give: 1) verbal hook (≤3 sec), 2) on-screen text (5–7 words, different), 3) caption hook (different again). Present as a table I can paste into Notion.
+```
+
+## Week 3 — Inspiration-to-Strategy (drop a raw idea anytime)
+```
+Here's a content idea / concept I had: [your idea]
+How does this connect to my content strategy and audience research? Which pillar does it fit? What angle would make it most relevant to my audience? Are there adjacent ideas I should explore alongside this?
+```
+
+---
+
 ## Week 4 — Cowork Global Instructions (Settings → Cowork)
 ```markdown
 # Startup Routine

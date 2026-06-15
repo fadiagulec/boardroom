@@ -87,13 +87,16 @@ Frames: Intro → Title "Claude isn't one tool — it's four" → 4-panel slide 
 
 ---
 
-## MODULE 3 — Week 3: Content Engine
-*Surface = your content Project.*
+## MODULE 3 — Week 3: Content (Strategist + Creative Partner)
+*Surface = your content Project. Sonnet for research/planning; Opus for strategy.*
 
-- **V3.1 (6:00)** Title "Blank page → draft in minutes" → Slide(work in your Project) → Slide(angle→outline→draft→tighten) → **Demo**(3 angles → pick → outline → draft) → Action → Outro.
-- **V3.2 (5:00)** Title "Kill the AI voice" → Slide(feed 3–5 samples) → Slide(extract YOUR rules) → Slide(few-shot: show don't tell) → **Demo**(paste samples → extract rules → save → regenerate → before/after) → Action → Outro.
-- **V3.3 (5:00)** Title "One piece → a week of content" → Slide(formats) → Slide(specify format explicitly) → **Demo**(draft → LinkedIn + X thread + email) → Action → Outro.
-- **V3.4 (4:00)** Title "Your weekly sprint" → Slide(4-step rhythm) → Slide(becomes a Skill in Wk6) → Action "ship one piece" → Outro "Next: Cowork".
+- **V3.1 (4:00)** Title "Messy idea in → clear plan out" → Slide(this was all prep) → Slide(end state: research+strategy+30 days) → **Demo**(open content Project, show Week-2 files) → Outro.
+- **V3.2 (5:00)** Title "Research first, not ideas" → Slide(the 8 dimensions) → Slide(customise the brief) → **Demo**(fill [niche]/[audience] in the brief) → Action → Outro.
+- **V3.3 (6:00)** Title "One brief → many tools → one truth" → Slide(run in 3+ tools) → Slide(synthesise in Claude) → **Demo**(upload 3 outputs → synthesis prompt → save consolidated doc) → Action → Outro.
+- **V3.4 (5:00)** Title "Brain dump + belief interview" → Slide(brain dump list) → Slide(the 5 belief questions) → **Demo**(host answers one belief question on screen) → Action → Outro.
+- **V3.5 (6:00)** Title "Generate your strategy" → Slide(Opus + extended thinking) → Slide(research + beliefs → 10-pg brief) → **Demo**(new chat Opus → paste answers → strategy prompt → push back on one rec → save) → Action → Outro.
+- **V3.6 (6:00)** Title "Plan 30 days" → Slide(load research+strategy+voice) → Slide(table: pillar/format/angle/3 hooks/CTA/purpose) → **Demo**(30-day plan prompt → table; then inspiration prompt on a raw idea) → Action → Outro.
+- **V3.7 (2:00)** Title "Week 3 checkpoint" → Checklist slide (research · strategy · 30-day plan) → Outro "Next: Cowork".
 
 ---
 

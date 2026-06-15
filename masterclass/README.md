@@ -34,7 +34,7 @@ Redact private info; otherwise show genuine output (including fixing a first att
 - [x] Worksheets for every module (`worksheets/`)
 - [x] Prompt library (Weeks 1–6) + Claude Essentials appendix (`prompt-library.md`)
 - [x] Frame-by-frame storyboards for every video (`STORYBOARDS.md`)
-- [~] Week 3 (Content engine) = my design pending your final written week — swap in when ready
+- [x] Week 3 (Content) = aligned to your real Phase 3 (research → strategy → 30-day plan)
 - [ ] Record → edit → upload (your part: Stages 2–4 above)
 
 ## Brand setup (do once)

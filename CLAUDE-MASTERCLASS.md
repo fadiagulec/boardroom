@@ -19,7 +19,7 @@
 **The promise:** in 6 weeks, go from "I've heard of Claude" to building real apps, agents, and automations.
 **Proof points to feature:** the one-day fleet app · ~10 apps built in 6 months · the before/after AI Audit jump.
 
-**Course duration by phase:** Phase 1 Setup 2–3 hrs · Phase 2 Foundations 3–4 hrs · Phase 3 Content 4–5 hrs · Phase 4 Cowork 3–4 hrs · Phase 5 Claude Code [TBD] · Phase 6 Integration [TBD]. *(Send me Phase 5 & 6 hours to finalise.)*
+**Course duration by phase:** Phase 1 Setup 2–3 hrs · Phase 2 Foundations 3–4 hrs · Phase 3 Content 4–5 hrs · Phase 4 Cowork 3–4 hrs · Phase 5 Claude Code 4–5 hrs · Phase 6 Integration [TBD]. *(Send me the Phase 6 hours to finalise.)*
 
 ---
 
@@ -102,11 +102,17 @@ plan + a worksheet — and every week has a **live call** where people do it wit
 
 **V2.5 — Week 2 checkpoint + test it (2 min)** · ✅ architecture agreed · shells created · instructions loaded for top 2–3 · docs uploaded · handover prompt saved · 🎤 test: open your content project, ask something normal, feel the difference.
 
-### Module 3 — Week 3: Content engine *(raises: Creation Speed, Content Quality)*  · ⏱ 4–5 hrs
-**V3.1 — Idea → outline → draft (6 min)** · ▶️ run a real post from blank to draft inside your Project.
-**V3.2 — Make it sound like *you*, not AI (5 min)** · ▶️ apply the voice profile; before/after side by side.
-**V3.3 — Repurpose once, publish everywhere (5 min)** · ▶️ one piece → LinkedIn, X, email, caption.
-**V3.4 — Your weekly content sprint (4 min)** · 🎬 a repeatable workflow card · ✅ ship one piece of content this week.
+### Module 3 — Week 3: Content (strategist + creative partner) *(raises: Content Strategy, Creation Speed, Quality)*  · ⏱ 4–5 hrs
+> Biggest phase — Part 1 Strategy now, Part 2 Creation later. One action per sitting. Model: **Sonnet** for research/planning/writing; **Opus** (extended thinking) for the belief interview + strategy. Home base = your content Project.
+
+**V3.1 — Why strategy first / the workflow (4 min)** · 🎬 "messy idea in → strategic thinking with Claude → clear plan out" · 🎤 the AI does research + structure; the strategy is built on YOUR voice & beliefs.
+**V3.2 — Action 1a: Write your research brief (5 min)** · 🎤 research first, not ideas; the 8 dimensions · ▶️ customise the brief for your niche.
+**V3.3 — Action 1b: Run everywhere + synthesise (6 min)** · ▶️ run the brief across 3+ tools (Claude/ChatGPT/Perplexity, deep-research mode) → upload outputs to your Project → synthesis prompt → one source-of-truth doc · ✅ save it.
+**V3.4 — Action 2a: Brain dump + belief interview (5 min)** · 🎤 the 5 belief questions = where positioning lives; be specific & opinionated.
+**V3.5 — Action 2b: Generate your strategy (6 min)** · ▶️ new chat on **Opus** + extended thinking → paste answers (Claude reads your research) → strategy prompt → 10+ page brief (positioning, voice, pillars, platform plan, funnel, monetisation) · 🎤 challenge it like a strategist · ✅ save.
+**V3.6 — Action 3: Plan 30 days of content (6 min)** · ▶️ load research + strategy + voice → 30-day plan prompt (pillar · format · angle · 3 hooks · CTA · purpose) as a table; plus the inspiration-based prompt for raw ideas · 🎤 it's a draft, not a decree.
+**V3.7 — Week 3 checkpoint (2 min)** · ✅ audience research · strategy brief · 30-day plan — all in your content Project.
+> Phase 3 Part 2 (write without sounding like AI · hook libraries · viral-script breakdowns · editing workflows) = planned add-on.
 
 ### Module 4 — Week 4: Cowork (hand over the work) *(raises: File & Document Automation)*  · ⏱ 3–4 hrs
 > Flagship build: a **scheduled daily brief** that runs itself. Set up once → runs on its own.
@@ -126,7 +132,7 @@ plan + a worksheet — and every week has a **live call** where people do it wit
 
 **V4.6 — Week 4 check-in (2 min)** · ✅ folder+Inbox · global instructions · `CLAUDE.md` · `MEMORY.md` · brief scheduled · 🎤 you'll open your laptop to ~2.5 hrs of work already done. Screenshot the top of your brief (redact private bits) and share.
 
-### Module 5 — Week 5: Claude Code (build a real tool) *(raises: Building Capability)*  · ⏱ TBD
+### Module 5 — Week 5: Claude Code (build a real tool) *(raises: Building Capability)*  · ⏱ 4–5 hrs
 > The most technical week — reassure up front: you talk in plain English; when stuck, paste the error and ask Claude. "Cowork is my assistant; Code is my engineer."
 
 **V5.1 — What Claude Code is (3 min)** · 🎬 the three modes recap: Chat (you decide) · Cowork (assistant) · Code (engineer that plans, acts, checks its own work) · 🎤 it lives in the terminal but you never write code — type `claude` and talk.
@@ -223,7 +229,7 @@ The recorded modules are the **backbone**; these layers make it a live, interact
 - [ ] Set up community: accountability pods, #stuck channel
 
 ---
-*Status: Weeks 1, 2, 4, 5, 6 aligned to your written plan; the **Bonus "Claude Essentials" track** is
-built from the Claude Mastery Guide (Opus 4.8). Only **Week 3 (Content engine)** is still a
-placeholder draft — paste that week and I'll align it like the others. Credit: the Built in a Day
-series is by Fadia — keep that attribution on any published version.*
+*Status: All 6 weeks (1–6) aligned to your written plan; the **Bonus "Claude Essentials" track**
+is built from the Claude Mastery Guide (Opus 4.8). Outstanding: **Phase 6 hours** to finalise
+durations, and **Phase 3 Part 2** (content-creation add-on) when it ships. Credit: the Built in a
+Day series is by Fadia — keep that attribution on any published version.*
