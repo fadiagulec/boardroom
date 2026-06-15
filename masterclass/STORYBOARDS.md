@@ -27,19 +27,19 @@
 | # | Frame | On-screen | Source |
 |---|---|---|---|
 |1|Intro card|Logo + "Built in a Day · Module 0"| brand |
-|2|Title (host on cam)|"Built in a Day — from 'heard of Claude' to 'co-founder' in 6 weeks"| Gamma |
+|2|Title (host on cam)|"Built in a Day — from 'heard of Claude' to 'co-founder' in 5 weeks"| Gamma |
 |3|Slide|"Most people use 5% of Claude"| Gamma |
 |4|Slide|"This is a DO-IT challenge, not more theory"| Gamma |
-|5|Slide|"In 6 weeks: a documented AI system running your work"| Gamma |
-|6|Outro|"Next: How the 6 weeks work"| brand |
+|5|Slide|"In 5 weeks: a documented AI system running your work"| Gamma |
+|6|Outro|"Next: How the 5 weeks work"| brand |
 *Narration: script V0.1.*
 
-### V0.2 — How the 6 weeks work (2:00)
+### V0.2 — How the 5 weeks work (2:00)
 | # | Frame | On-screen |
 |---|---|---|
 |1|Intro card|Module 0|
-|2|Title|"Your 6-week roadmap"|
-|3–8|Roadmap slides (animate in)|1 Foundation · 2 Projects · 3 Content · 4 Cowork · 5 Code · 6 System|
+|2|Title|"Your 5-week roadmap"|
+|3–7|Roadmap slides (animate in)|1 Foundation · 2 Projects · 3 Content · 4 Cowork · 5 Code (finale)|
 |9|Slide|"Each week: Read · Do · Track"|
 |10|Demo (optional)|Screen: duplicating the Notion template|
 |11|Action card|"⏸ Duplicate the template now"|
@@ -53,7 +53,7 @@
 |3|Slide|"Rate 1–5. Be honest."|
 |4|Slide|The 8 areas (animated list)|
 |5|Demo|Screen: the audit table; fill one row live|
-|6|Slide|"Total ___/40 — save it. Re-score in Week 6."|
+|6|Slide|"Total ___/40 — save it. Re-score at the end."|
 |7|Action card|"⏸ Record your baseline /40"|
 |8|Outro|"Next: Week 1 — Foundation"|
 
@@ -121,19 +121,7 @@ Frames: Intro → Title "Claude isn't one tool — it's four" → 4-panel slide 
 - **V5.4 (5:00)** Title "The PRD = highest leverage" → Slide("you don't know what you don't know") → Slide(spend most time here) → Slide(save PRD.md + references) → **Demo**(PRD interview in Chat → save PRD.md → create /references) → Action → Outro.
 - **V5.5 (7:00)** Title "Vibe code it" → Slide(Plan mode + Opus) → Slide(frontend-design skill → read files → plan) → Slide(review → Ask before edits → build) → Slide(/compact at 50–60%) → **Demo**(plan → build → feedback → /compact) → Action → Outro.
 - **V5.6 (5:00)** Title "Get it off your computer" → Slide(GitHub → Vercel) → Slide(other tools: back up) → **Demo**(publish prompt → GitHub → Vercel → live URL) → Action → Outro.
-- **V5.7 (2:00)** Title "Week 5 check-in" → Checklist slide → Outro "Next: Make it a system".
-
----
-
-## MODULE 6 — Week 6: Skills + System
-*Surface = Chat/Cowork.*
-
-- **V6.1 (5:00)** Title "From prompts to Skills" → Slide(Project=who / Skill=how) → Slide(auto-trigger, global) → Slide(folder + SKILL.md) → Slide(prompt vs skill) → **Demo**(Skills area + SKILL.md) → Outro.
-- **V6.2 (4:00)** Title "Three ways to build" → Slide(M1 upfront) → Slide(M2 convert — best) → Slide(M3 off-the-shelf) → **Demo**(skill-creator) → Outro.
-- **V6.3 (6:00)** Title "Build one now (M2)" → Slide(pick a repeat task) → Slide(do it → convert prompt) → Slide(save + test) → Slide(5 starters) → **Demo**(task → skill prompt → save → test) → Action → Outro.
-- **V6.4 (5:00)** Title "See your whole system" → Slide(7 areas) → Slide(AI System Map) → Slide(4 buckets) → **Demo**(run audit → produce map) → Action → Outro.
-- **V6.5 (4:00)** Title "Where to point AI next" → Slide(Efficiency) → Slide(Innovation = bigger wins) → Slide(opportunity table → top 3) → **Demo**(fill table) → Action → Outro.
-- **V6.6 (3:00)** Title "See how far you've come" → Slide(re-score 8 areas) → Slide(maintenance rhythm) → Slide("you run an AI system now") → **Demo**(before vs after /40) → Outro "Bonus track →".
+- **V5.7 (4:00)** Title "You did it" → Slide(you built a real tool) → Slide(re-score 8 areas vs Day-1 /40) → Slide(weekly rhythm + what's next) → **Demo**(before vs after audit) → Outro "Bonus track →".
 
 ---
 

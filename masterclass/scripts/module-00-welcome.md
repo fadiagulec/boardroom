@@ -8,7 +8,7 @@
 🟦 GAMMA OUTLINE
 ```
 Title: BUILT IN A DAY
-Subtitle: Master Claude · Build apps, agents & automations · 6 weeks
+Subtitle: Master Claude · Build apps, agents & automations · 5 weeks
 Slide: My story — 55, 30 years in corporate, no tech background
 Slide: 6 months ago: "AI is going to take jobs" → so I learned it
 Slide: I got hooked on Claude — built ~10 apps
@@ -21,7 +21,7 @@ NARRATION
 >
 > That's when I found Claude — and honestly, I got hooked. Every problem I saw, I'd go and build something for it: an app, an agent, an automation. Since then I've built around ten apps. One of them was a fleet system for the company I work for — three hundred vehicles, and they were drowning trying to manage bookings, driver licences, vehicle licences, all the compliance. I built the app that fixed all of it. And guess what — it took me one day. That's how fast this can be now.
 >
-> Here's the thing: most people use about five percent of Claude. They type a question, get an answer, close the tab. This masterclass is the other ninety-five percent. Over six weeks I'll take you from that — to building real apps, agents, and automations yourself.
+> Here's the thing: most people use about five percent of Claude. They type a question, get an answer, close the tab. This masterclass is the other ninety-five percent. Over five weeks I'll take you from that — to building real apps, agents, and automations yourself.
 >
 > This is not an information course; you don't need more information. It's a do-it course. Every week you build something real. Let's get into it.
 
@@ -29,26 +29,25 @@ NARRATION
 
 ---
 
-## V0.2 — How the 6 weeks work (2 min)
+## V0.2 — How the 5 weeks work (2 min)
 
 🟦 GAMMA OUTLINE
 ```
-Title: Your 6-week roadmap
+Title: Your 5-week roadmap
 Steps (one per slide, animate in):
 1. Foundation — set Claude up properly
 2. Projects — an army of specialised advisors
 3. Content engine — idea to published, fast, in your voice
 4. Cowork — hand over whole workflows
-5. Code — build a real tool
-6. System — skills + put it all together
-Slide: How each week works — Read · Do · Track · Share
+5. Code — build & publish a real tool (the finale)
+Slide: How each week works — Read · Do · Track
 Slide: Your companion: the Notion template (duplicate it now)
 ```
 
 NARRATION
-> Here's the path. Week one, we set Claude up properly — the stuff almost everyone skips. Week two, we build Projects, so Claude knows your world before you type a word. Week three, your content engine. Week four, Cowork — where you hand over entire workflows and walk away. Week five, Claude Code — you'll build your first real tool. And week six, we tie it all together into a system that keeps getting more valuable.
+> Here's the path. Week one, we set Claude up properly — the stuff almost everyone skips. Week two, we build Projects, so Claude knows your world before you type a word. Week three, your content engine. Week four, Cowork — where you hand over entire workflows and walk away. And week five — the finale — you'll build and publish your first real tool with Claude Code. That's the moment "Built in a Day" becomes real for you.
 >
-> Each week is the same rhythm: **read** the lesson, **do** the actions, **track** your progress, and **share** your win — because documenting this journey is one of the smartest things you can do right now.
+> Each week is the same rhythm: **read** the lesson, **do** the actions, and **track** your progress as you go.
 >
 > Your companion is the Notion template linked below this video. Duplicate it now — you'll fill it in as we go.
 
@@ -65,7 +64,7 @@ Slide: Rate yourself 1–5 on 8 areas (be honest)
 Slide (the 8 areas):
 1. AI Setup  2. Content Strategy  3. Content Creation Speed  4. Content Quality
 5. File & Document Automation  6. Building Capability  7. Workflow Integration  8. Overall Confidence
-Slide: Total ___ / 40 — save it. You'll re-score in Week 6.
+Slide: Total ___ / 40 — save it. You'll re-score at the end of the course.
 ```
 
 NARRATION

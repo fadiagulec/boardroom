@@ -16,4 +16,4 @@
 | 7 | Workflow Integration (AI in your daily/weekly?) | | |
 | 8 | Overall Confidence | | |
 
-**TOTAL: ____ / 40**  → *Save this. You'll re-score in Week 6.*
+**TOTAL: ____ / 40**  → *Save this. You'll re-score at the end of the course.*

@@ -1,25 +1,25 @@
 # Built in a Day — The Masterclass (Video Edition)
-*A visual, video-first masterclass that teaches Claude end-to-end &mdash; built from the 6-week course + the Claude Mastery Guide (Opus 4.8).*
+*A visual, video-first masterclass that teaches Claude end-to-end &mdash; built from the 5-week course + the Claude Mastery Guide (Opus 4.8).*
 *By Fadia. Companion to the written Notion guide + the Mastery Guide (Opus 4.8).*
 
-> Goal of this doc: turn the written 6-week plan into "videos explaining things,"
+> Goal of this doc: turn the written 5-week plan into "videos explaining things,"
 > and decide where to host them. Structure mirrors the real plan exactly:
-> AI Audit → 6 weekly phases → Bonus references → final Audit.
+> AI Audit → 5 weekly phases → Bonus references → final Audit.
 
 ---
 
 ## Positioning & sales blurb (use on the landing page)
 
 **Name:** BUILT IN A DAY
-**Tagline:** Master Claude · Build apps, agents & automations · 6 weeks
+**Tagline:** Master Claude · Build apps, agents & automations · 5 weeks
 **The hook (Fadia's story):**
 > "I'm 55. I spent 30 years in corporate with no tech background. Six months ago I kept hearing AI would take our jobs — so instead of waiting, I learned it. I got hooked on Claude and started building: an app, an agent, an automation for every problem I saw. I've built around 10 apps — including a system that runs a 300-vehicle fleet (bookings, driver & vehicle licences, all the compliance). It took me **one day**. If someone with zero tech background can do this — anyone can. Let me show you exactly how."
 
 **Who it's for:** professionals (especially corporate) who feel behind on AI and want to become the person who *builds* with it — not the one replaced by it. No coding background needed.
-**The promise:** in 6 weeks, go from "I've heard of Claude" to building real apps, agents, and automations.
+**The promise:** in 5 weeks, go from "I've heard of Claude" to building real apps, agents, and automations.
 **Proof points to feature:** the one-day fleet app · ~10 apps built in 6 months · the before/after AI Audit jump.
 
-**Course duration by phase:** Phase 1 Setup 2–3 hrs · Phase 2 Foundations 3–4 hrs · Phase 3 Content 4–5 hrs · Phase 4 Cowork 3–4 hrs · Phase 5 Claude Code 4–5 hrs · Phase 6 Integration [TBD]. *(Send me the Phase 6 hours to finalise.)*
+**Course duration by phase (5 weeks):** Phase 1 Setup 2–3 hrs · Phase 2 Foundations 3–4 hrs · Phase 3 Content 4–5 hrs · Phase 4 Cowork 3–4 hrs · Phase 5 Claude Code 4–5 hrs. *(≈ 17–21 hrs total.)*
 
 ---
 
@@ -44,7 +44,6 @@ Two separate jobs: **create** the videos, then **host/deliver** them. Use the be
 > - Weeks 1–3 → **claude.ai / the desktop Chat app** (settings, Projects, real conversations)
 > - Week 4 → **Claude desktop app → Cowork** (real folder, real files, the brief running)
 > - Week 5 → **Antigravity with the Claude Code panel** (real terminal/build, real files changing)
-> - Week 6 → **Chat/Cowork** building and triggering a real skill
 > Redact anything private on screen; otherwise show the genuine output, including when a first attempt needs fixing — that realism is what builds trust.
 
 ### Host & deliver
@@ -67,14 +66,19 @@ plan + a worksheet — and every week has a **live call** where people do it wit
 
 ---
 
-## Part B — The course (mapped to your 6 weeks)
+## Part B — The course (mapped to your 5 weeks)
 
-**Promise:** "Go from 'I've heard of Claude' to 'Claude is my co-founder' in 6 weeks."
-**Spine:** the 8-area **AI Audit** opens and closes the course; each week raises specific audit scores.
+**Promise:** "Go from 'I've heard of Claude' to building real apps in 5 weeks."
+**Spine:** the 8-area **AI Audit** opens (Module 0) and closes (Module 5 finale) the course; each week raises specific audit scores.
+
+**Built for all levels (friendly by design):**
+- **Total beginners** follow every click — nothing assumed, plain English, "do this now" after each step.
+- **Already-using-Claude** get a 60-sec "fast-pass" card at the top of each module ("already did this? skip to V_.3") so they're never bored.
+- **Tone:** warm, encouraging, zero jargon. Every hard moment has a "if you get stuck, paste the error and ask Claude" safety net. The vibe is *a friend who figured it out showing you how* — exactly your story.
 
 ### Module 0 — Welcome + Your AI Audit
 **V0.1 — Why this exists (2 min)** · 🎬 host on camera + montage of Claude doing real work · 🎤 most people use 5% of Claude; this is a *do-it* challenge, not more theory · ✅ commit publicly.
-**V0.2 — How the 6 weeks work (2 min)** · 🎬 animated roadmap of the 6 phases · ✅ duplicate the Notion template.
+**V0.2 — How the 5 weeks work (2 min)** · 🎬 animated roadmap of the 5 phases · ✅ duplicate the Notion template.
 **V0.3 — Take your AI Audit (3 min)** · 🎬 the 8-area scorecard on screen, filled in live · 🎤 score 1–5 on Setup, Content Strategy, Creation Speed, Quality, File/Doc Automation, Building Capability, Workflow Integration, Confidence · ✅ record your /40 baseline.
 
 ### Module 1 — Week 1: Foundation *(raises: AI Setup, Confidence)*  · ⏱ 2–3 hrs
@@ -144,24 +148,11 @@ plan + a worksheet — and every week has a **live call** where people do it wit
 
 **V5.6 — Save & publish (5 min)** · ▶️ web app → push to **GitHub**, deploy on **Vercel** (Claude walks you through git init → repo → push → connect → live URL); other tools → back it up/share per Claude's guidance · 🎤 first time ~20–30 min; updates ~30 sec after.
 
-**V5.7 — Week 5 check-in (2 min)** · ✅ Code in Antigravity · folder in cloud · `CLAUDE.md` · permissions · `PRD.md` · first tool built + iterated · share the build.
-
-### Module 6 — Week 6: Make it a system (Skills + integration) *(raises: Workflow Integration, Confidence)*  · ⏱ TBD
-
-**V6.1 — Skills: instructions Claude gives itself (5 min)** · 🎬 "Project = *who you are*; Skill = *how to do a specific job*" · 🎤 skills auto-trigger when your request matches, work across Chat/Cowork, are global; a `SKILL.md` folder · 🎤 prompt vs. skill: a prompt you must remember/find/paste; a skill just activates when you're doing the same work repeatedly.
-
-**V6.2 — The 3 ways to build a skill (4 min)** · 🎬 Method 1 build upfront from a good prompt/SOP · Method 2 do the work first, then convert (best — captures what you actually did) · Method 3 off-the-shelf · 🎤 *off-the-shelf tie-in (your product):* **Boardroom** = 111 ready-made skills (`fadiagulec/boardroom`) — instant Method-3 specialists you can use as-is or customise.
-
-**V6.3 — Build your first skill, Method 2 (6 min)** · ▶️ do a recurring task end-to-end, then run the "turn this into a skill" prompt (principles vs. exact-steps), save the `SKILL.md`, test by describing the task without naming the skill · 🎬 show the 5 starter skills (voice writer, meeting prep, weekly review, content repurposer, research brief) · ✅ one skill built + tested.
-
-**V6.4 — Run your system audit → AI System Map (5 min)** · ▶️ run the 7-area audit prompt (Projects · Cowork · Code · Skills · Workflows · Recurring tasks · Integrations) → produce a one-page **AI System Map** (working / set-up-but-unused / missing / top-3 gaps) · ✅ map saved where you'll revisit it.
-
-**V6.5 — Efficiency vs. Innovation AI: your next builds (4 min)** · 🎬 efficiency = speed up what you do; innovation = things that weren't practical before (the bigger wins) · ▶️ fill the opportunity table (time saved · what's needed · setup time), pick **top 3** as next month's roadmap.
-
-**V6.6 — Re-take the AI Audit + what's next (3 min)** · 🎬 baseline vs. now on the same 8 areas, compare /40 · 🎤 set a maintenance rhythm (weekly/monthly/quarterly) · ✅ share before/after, keep building.
+**V5.7 — You did it: re-take your AI Audit + what's next (4 min)** · 🎬 the capstone — you just built a real tool · ▶️ re-score the same 8 areas, compare to your Day-1 baseline /40 · 🎤 celebrate the jump; set a simple weekly rhythm to keep building; tease where to go next (more apps, automations) · ✅ Code in Antigravity · `PRD.md` · first tool built + published · audit re-scored (before vs. after).
+> This is the finale — Week 5 is the payoff that earns the name "Built in a Day." End on a high.
 
 ### Bonus track — "Claude Essentials" (from the Claude Mastery Guide, Opus 4.8)
-*A reference library members can watch anytime. Short, demo-led. Sell as the "know Claude cold" companion to the 6-week build.*
+*A reference library members can watch anytime. Short, demo-led. Sell as the "know Claude cold" companion to the 5-week build.*
 
 **B1 — Chat vs Cowork vs Code: pick the right mode (4 min)** · 🎬 the decision table animated.
 **B2 — Which model? Haiku / Sonnet / Opus (4 min)** · 🎤 *current models:* **Haiku 4.5** (fast/cheap quick tasks), **Sonnet 4.6** (default for most work; extended thinking for hard ones), **Opus 4.8** (deep reasoning, building from scratch). Rule of thumb: start with Sonnet, escalate to Opus; community framework = "Opus to plan, Sonnet/Haiku to execute."
@@ -182,7 +173,7 @@ plan + a worksheet — and every week has a **live call** where people do it wit
 The recorded modules are the **backbone**; these layers make it a live, interactive experience.
 
 ### 1. Delivery model — run it as a live cohort (recommended)
-- **Hybrid cohort:** recorded lessons drip each week + **one live call per week** (6 calls total). People watch the lesson, then show up live to do it with you. This is the most interactive and the easiest to sell.
+- **Hybrid cohort:** recorded lessons drip each week + **one live call per week** (5 calls total). People watch the lesson, then show up live to do it with you. This is the most interactive and the easiest to sell.
 - Evergreen alternative: keep the recordings self-paced and run a **monthly** live call so it never goes stale.
 
 ### 2. The weekly live call (55–65 min, same shape each week)
@@ -211,7 +202,7 @@ The recorded modules are the **backbone**; these layers make it a live, interact
 ---
 
 ## Part C — Production checklist
-- [ ] Lock module list above (already mapped to your 6 weeks)
+- [ ] Lock module list above (already mapped to your 5 weeks)
 - [ ] Update model references everywhere to **Opus 4.8 / Sonnet 4.6 / Haiku 4.5** (guide currently says 4.6)
 - [ ] Write per-video scripts from the 🎤 beats
 - [ ] Build one Gamma theme (your brand)
@@ -221,10 +212,10 @@ The recorded modules are the **backbone**; these layers make it a live, interact
 - [ ] 1-page worksheet per module (Gamma/Canva → PDF) — reuse the existing checkboxes
 - [ ] Cut promo clips with Opus Clip; soft-launch to current subscribers first
 - [ ] Add pause-and-do cards + a 3–5 question checkpoint to each module
-- [ ] Schedule the 6 weekly live calls on Zoom; add links/recordings in Teachable
+- [ ] Schedule the 5 weekly live calls on Zoom; add links/recordings in Teachable
 
 ---
-*Status: All 6 weeks (1–6) aligned to your written plan; the **Bonus "Claude Essentials" track**
-is built from the Claude Mastery Guide (Opus 4.8). Outstanding: **Phase 6 hours** to finalise
-durations, and **Phase 3 Part 2** (content-creation add-on) when it ships. Credit: the Built in a
-Day series is by Fadia — keep that attribution on any published version.*
+*Status: 5-week course (Modules 0–5) fully aligned; Week 6/Phase 6 removed — Week 5 (build a real
+tool) is the finale. The **Bonus "Claude Essentials" track** is built from the Claude Mastery Guide
+(Opus 4.8). Optional later: **Phase 3 Part 2** (content-creation add-on). Credit: the Built in a Day
+series is by Fadia.*

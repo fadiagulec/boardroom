@@ -314,7 +314,7 @@ I want to make sure what we built is backed up safely and [stays up to date as I
 
 ---
 
-## Week 6 — Turn a workflow into a skill (run after doing the work)
+## Bonus — Turn a workflow into a skill (run after doing the work)
 ```markdown
 We just worked through [describe what you did]. I'd like you to turn this workflow into a skill so I can run it the same way next time.
 CHOOSE EITHER:
@@ -324,7 +324,7 @@ B) Follow this exact process step by step.
 Then write the full SKILL.md file.
 ```
 
-## Week 6 — System audit → AI System Map (run in a Chat project with your context)
+## Bonus — System audit → AI System Map (run in a Chat project with your context)
 ```markdown
 I've been setting up Claude across multiple phases and I want to audit my full AI system. Walk me through each area below, one at a time. For each, ask me what I've set up, then assess whether it's working, incomplete, or missing entirely. This should take no longer than 15 minutes.
 Areas to cover:

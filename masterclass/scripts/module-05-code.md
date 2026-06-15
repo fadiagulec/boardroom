@@ -140,9 +140,23 @@ Resources: `prompt-library.md` → "Week 5 — Save to GitHub + Vercel" / "Back 
 
 ---
 
-## V5.7 — Week 5 check-in (2 min)
+## V5.7 — You did it: re-take your AI Audit + what's next (4 min)
+
+🟦 GAMMA OUTLINE
+```
+Title: You did it — you built a real tool
+Slide: Re-score the same 8 areas → compare to your Day-1 baseline /40
+Slide: Your weekly rhythm — keep building (one small thing a week)
+Slide: Where next — more apps, automations, your own ideas
+```
 
 NARRATION
-> By now you've got Claude Code running in Antigravity, a working folder backed up to the cloud, a CLAUDE.md, permissions set, a PRD, and your first tool — built and iterated. That's huge. You just built something real, in plain English. Next week, we tie everything together into a system.
+> Look at what you've done. Claude Code running in Antigravity, a working folder in the cloud, your CLAUDE.md, permissions, a PRD, and a real tool — built, iterated, and published. In plain English, with no tech background. That's the whole promise of this course, and you just lived it.
+>
+> Now go back to the AI Audit you took on day one and score yourself again on the same eight areas. Compare it to your baseline. That jump is real — and more importantly, you can feel the difference in how you work.
+>
+> From here, keep the momentum with one simple habit: build one small thing a week. A tool, an automation, a tidy-up. That's how you stay the person who builds with AI instead of being replaced by it. You're there. Congratulations.
 
-✅ Checklist: Code in Antigravity · cloud folder · CLAUDE.md · permissions · PRD.md · tool built.
+[DEMO] Re-take the audit live → show before vs. after /40.
+
+✅ Checklist: Code in Antigravity · cloud folder · CLAUDE.md · permissions · PRD.md · tool built & published · audit re-scored (before vs. after).

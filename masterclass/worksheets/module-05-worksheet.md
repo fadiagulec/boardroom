@@ -25,4 +25,4 @@
 - [ ] Web app → GitHub + Vercel (live URL: __________)  OR  other → backed up
 - [ ] (Accounts) github.com · vercel.com
 
-**Next week:** Skills + put the whole system together.
+**That's the course! 🎉** Re-take your AI Audit and compare to your Day-1 baseline — see your jump.
