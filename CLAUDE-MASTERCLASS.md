@@ -1,10 +1,25 @@
-# Claude MBA — The Masterclass (Video Edition)
-*A visual, video-first rebuild of the 6-week Claude MBA Action Plan.*
+# Built in a Day — The Masterclass (Video Edition)
+*A visual, video-first masterclass that teaches Claude end-to-end &mdash; built from the 6-week course + the Claude Mastery Guide (Opus 4.8).*
 *By Fadia. Companion to the written Notion guide + the Mastery Guide (Opus 4.8).*
 
 > Goal of this doc: turn the written 6-week plan into "videos explaining things,"
 > and decide where to host them. Structure mirrors the real plan exactly:
 > AI Audit → 6 weekly phases → Bonus references → final Audit.
+
+---
+
+## Positioning & sales blurb (use on the landing page)
+
+**Name:** BUILT IN A DAY
+**Tagline:** Master Claude · Build apps, agents & automations · 6 weeks
+**The hook (Fadia's story):**
+> "I spent 30 years in corporate. Six months ago I kept hearing AI would take our jobs — so instead of waiting, I learned it. I got hooked on Claude and started building: an app, an agent, an automation for every problem I saw. I've built around 10 apps — including a system that runs a 300-vehicle fleet (bookings, driver & vehicle licences, all the compliance). It took me **one day**. If a 30-year corporate professional can do this, so can you. Let me show you exactly how."
+
+**Who it's for:** professionals (especially corporate) who feel behind on AI and want to become the person who *builds* with it — not the one replaced by it. No coding background needed.
+**The promise:** in 6 weeks, go from "I've heard of Claude" to building real apps, agents, and automations.
+**Proof points to feature:** the one-day fleet app · ~10 apps built in 6 months · the before/after AI Audit jump.
+
+**Course duration by phase:** Phase 1 Setup 2–3 hrs · Phase 2 Foundations 3–4 hrs · Phase 3 Content 4–5 hrs · Phase 4 Cowork 3–4 hrs · Phase 5 Claude Code [TBD] · Phase 6 Integration [TBD]. *(Send me Phase 5 & 6 hours to finalise.)*
 
 ---
 
@@ -65,14 +80,14 @@ plan + a worksheet — and every week has a **live call** where people do it wit
 **V0.2 — How the 6 weeks work (2 min)** · 🎬 animated roadmap of the 6 phases · ✅ duplicate the Notion template.
 **V0.3 — Take your AI Audit (3 min)** · 🎬 the 8-area scorecard on screen, filled in live · 🎤 score 1–5 on Setup, Content Strategy, Creation Speed, Quality, File/Doc Automation, Building Capability, Workflow Integration, Confidence · ✅ record your /40 baseline.
 
-### Module 1 — Week 1: Foundation *(raises: AI Setup, Confidence)*
+### Module 1 — Week 1: Foundation *(raises: AI Setup, Confidence)*  · ⏱ 2–3 hrs
 **V1.1 — Get set up (4 min)** · ▶️ live: sign up for Pro, install desktop app, onboarding · 🎤 why Pro (Cowork + Code unlock in Wks 4–5) · ✅ account + app installed.
 **V1.2 — The setting everyone skips: Personal Preferences (6 min)** · 🎬 settings walkthrough · ▶️ paste + customise the "About Me / How I Work / Communication Style" template · 🎤 this is Claude's base personality before any project loads · ✅ preferences saved.
 **V1.3 — Privacy + your name (2 min)** · ▶️ toggle off "Help improve Claude," set an aspirational profile name · ✅ done.
 **V1.4 — The 4 modes in 5 minutes (5 min)** · 🎬 four labelled panels: Chat · Projects · Cowork · Code · 🎤 what each is for, where to find it · ✅ locate all four.
 > *Already-using-Claude fast-pass note as a 60-sec card at the start of the module.*
 
-### Module 2 — Week 2: An army of specialised advisors (Projects) *(raises: AI Setup, Content Strategy)*
+### Module 2 — Week 2: An army of specialised advisors (Projects) *(raises: AI Setup, Content Strategy)*  · ⏱ 3–4 hrs
 > Model note card: use **Sonnet** for all setup this week — faster, fewer credits, plenty capable. Each project = 20–40 min; aim for your top 2–3 live.
 
 **V2.1 — Why one generic chatbot is the problem (4 min)** · 🎬 the expertise analogy: accountant vs. trainer vs. financial advisor — you don't hand blood tests to your accountant · 🎤 most people use Claude as one generalist with a vague brief every time; Projects give each domain its own context, memory, and job · ✅ find Projects in the sidebar, open one.
@@ -87,13 +102,13 @@ plan + a worksheet — and every week has a **live call** where people do it wit
 
 **V2.5 — Week 2 checkpoint + test it (2 min)** · ✅ architecture agreed · shells created · instructions loaded for top 2–3 · docs uploaded · handover prompt saved · 🎤 test: open your content project, ask something normal, feel the difference.
 
-### Module 3 — Week 3: Content engine *(raises: Creation Speed, Content Quality)*
+### Module 3 — Week 3: Content engine *(raises: Creation Speed, Content Quality)*  · ⏱ 4–5 hrs
 **V3.1 — Idea → outline → draft (6 min)** · ▶️ run a real post from blank to draft inside your Project.
 **V3.2 — Make it sound like *you*, not AI (5 min)** · ▶️ apply the voice profile; before/after side by side.
 **V3.3 — Repurpose once, publish everywhere (5 min)** · ▶️ one piece → LinkedIn, X, email, caption.
 **V3.4 — Your weekly content sprint (4 min)** · 🎬 a repeatable workflow card · ✅ ship one piece of content this week.
 
-### Module 4 — Week 4: Cowork (hand over the work) *(raises: File & Document Automation)*
+### Module 4 — Week 4: Cowork (hand over the work) *(raises: File & Document Automation)*  · ⏱ 3–4 hrs
 > Flagship build: a **scheduled daily brief** that runs itself. Set up once → runs on its own.
 
 **V4.1 — Chat vs. Cowork = agency (4 min)** · 🎬 split screen: Chat (you in the loop every step) vs. Cowork (hand over a goal, it plans + executes + returns done) · 🎤 with recent updates Chat can touch Gmail/Notion/files too — the real difference is *agency*; Cowork is for complex, multi-step jobs you walk away from.
@@ -111,7 +126,7 @@ plan + a worksheet — and every week has a **live call** where people do it wit
 
 **V4.6 — Week 4 check-in (2 min)** · ✅ folder+Inbox · global instructions · `CLAUDE.md` · `MEMORY.md` · brief scheduled · 🎤 you'll open your laptop to ~2.5 hrs of work already done. Screenshot the top of your brief (redact private bits) and share.
 
-### Module 5 — Week 5: Claude Code (build a real tool) *(raises: Building Capability)*
+### Module 5 — Week 5: Claude Code (build a real tool) *(raises: Building Capability)*  · ⏱ TBD
 > The most technical week — reassure up front: you talk in plain English; when stuck, paste the error and ask Claude. "Cowork is my assistant; Code is my engineer."
 
 **V5.1 — What Claude Code is (3 min)** · 🎬 the three modes recap: Chat (you decide) · Cowork (assistant) · Code (engineer that plans, acts, checks its own work) · 🎤 it lives in the terminal but you never write code — type `claude` and talk.
@@ -128,7 +143,7 @@ plan + a worksheet — and every week has a **live call** where people do it wit
 
 **V5.7 — Week 5 check-in (2 min)** · ✅ Code in Antigravity · folder in cloud · `CLAUDE.md` · permissions · `PRD.md` · first tool built + iterated · share the build.
 
-### Module 6 — Week 6: Make it a system (Skills + integration) *(raises: Workflow Integration, Confidence)*
+### Module 6 — Week 6: Make it a system (Skills + integration) *(raises: Workflow Integration, Confidence)*  · ⏱ TBD
 
 **V6.1 — Skills: instructions Claude gives itself (5 min)** · 🎬 "Project = *who you are*; Skill = *how to do a specific job*" · 🎤 skills auto-trigger when your request matches, work across Chat/Cowork, are global; a `SKILL.md` folder · 🎤 prompt vs. skill: a prompt you must remember/find/paste; a skill just activates when you're doing the same work repeatedly.
 
@@ -142,7 +157,7 @@ plan + a worksheet — and every week has a **live call** where people do it wit
 
 **V6.6 — Re-take the AI Audit + what's next (3 min)** · 🎬 baseline vs. now on the same 8 areas, compare /40 · 🎤 set a maintenance rhythm (weekly/monthly/quarterly) · ✅ share before/after, keep building.
 
-### Bonus track — "Foundations" (from the Claude Mastery Guide, Opus 4.8)
+### Bonus track — "Claude Essentials" (from the Claude Mastery Guide, Opus 4.8)
 *A reference library members can watch anytime. Short, demo-led. Sell as the "know Claude cold" companion to the 6-week build.*
 
 **B1 — Chat vs Cowork vs Code: pick the right mode (4 min)** · 🎬 the decision table animated.
@@ -155,7 +170,7 @@ plan + a worksheet — and every week has a **live call** where people do it wit
 **B8 — Projects, deep dive (5 min)** · 🎤 instructions (always-on behaviour) vs. knowledge files (reference, name them well) vs. conversations (not shared chat-to-chat); keep instructions lean, one Project per domain, RAG kicks in automatically on big knowledge bases · ▶️ show a well-written instruction block vs. a vague one.
 **B9 — Connectors / MCP (5 min)** · 🎤 connect Claude to your real tools (Notion, Google Drive, GitHub, Slack, Linear, Zapier) via 2-min OAuth — kills the copy-paste-explain loop · ▶️ "summarise the Q1 plan in Notion" live; note read is stronger than write, scope permissions (least privilege).
 **B10 — The full stack: Projects + Skills + Connectors (4 min)** · 🎬 the comparison: *Projects = what Claude knows · Skills = how Claude works · Connectors = where Claude can reach* · ▶️ one prompt that uses all three (pull a topic from Notion → apply a formatting Skill → in a client Project's voice).
-> Bonus resources to attach: the **30 Prompt Principles**, the **Strategic-Use prompt pack**, and the **Mega-Prompt list** from the guide → drop into `prompt-library.md` as a "Foundations" appendix.
+> Bonus resources to attach: the **30 Prompt Principles**, the **Strategic-Use prompt pack**, and the **Mega-Prompt list** from the guide → drop into `prompt-library.md` as a "Claude Essentials" appendix.
 
 ---
 
@@ -208,7 +223,7 @@ The recorded modules are the **backbone**; these layers make it a live, interact
 - [ ] Set up community: accountability pods, #stuck channel
 
 ---
-*Status: Weeks 1, 2, 4, 5, 6 aligned to your written plan; the **Bonus "Foundations" track** is
+*Status: Weeks 1, 2, 4, 5, 6 aligned to your written plan; the **Bonus "Claude Essentials" track** is
 built from the Claude Mastery Guide (Opus 4.8). Only **Week 3 (Content engine)** is still a
-placeholder draft — paste that week and I'll align it like the others. Credit: the Claude MBA
+placeholder draft — paste that week and I'll align it like the others. Credit: the Built in a Day
 series is by Fadia — keep that attribution on any published version.*

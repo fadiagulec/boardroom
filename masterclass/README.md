@@ -1,4 +1,4 @@
-# The Claude MBA Masterclass — Build Kit
+# Built in a Day Masterclass — Build Kit
 *Everything written, so all that's left is record → edit → upload.*
 
 This folder turns `../CLAUDE-MASTERCLASS.md` (the course design) into a producible kit.
@@ -30,9 +30,9 @@ Redact private info; otherwise show genuine output (including fixing a first att
 
 ## What's in this kit
 - [x] Modules 0–6 — full scripts (`scripts/`)
-- [x] Bonus "Foundations" track — full scripts (`scripts/bonus-foundations.md`)
+- [x] Bonus "Claude Essentials" track — full scripts (`scripts/bonus-foundations.md`)
 - [x] Worksheets for every module (`worksheets/`)
-- [x] Prompt library (Weeks 1–6) + Foundations appendix (`prompt-library.md`)
+- [x] Prompt library (Weeks 1–6) + Claude Essentials appendix (`prompt-library.md`)
 - [x] Frame-by-frame storyboards for every video (`STORYBOARDS.md`)
 - [~] Week 3 (Content engine) = my design pending your final written week — swap in when ready
 - [ ] Record → edit → upload (your part: Stages 2–4 above)

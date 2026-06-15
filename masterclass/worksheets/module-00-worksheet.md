@@ -1,7 +1,7 @@
 # Module 0 — Worksheet (export to PDF)
 
 ## Commit
-- [ ] I'm starting the Claude MBA on: ____________
+- [ ] I'm starting Built in a Day on: ____________
 - [ ] Duplicate the Notion template
 
 ## Your AI Audit — BEFORE (rate 1–5, be honest)

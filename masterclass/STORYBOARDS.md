@@ -26,8 +26,8 @@
 ### V0.1 — Why this exists (2:00)
 | # | Frame | On-screen | Source |
 |---|---|---|---|
-|1|Intro card|Logo + "The Claude MBA · Module 0"| brand |
-|2|Title (host on cam)|"The Claude MBA — from 'heard of Claude' to 'co-founder' in 6 weeks"| Gamma |
+|1|Intro card|Logo + "Built in a Day · Module 0"| brand |
+|2|Title (host on cam)|"Built in a Day — from 'heard of Claude' to 'co-founder' in 6 weeks"| Gamma |
 |3|Slide|"Most people use 5% of Claude"| Gamma |
 |4|Slide|"This is a DO-IT challenge, not more theory"| Gamma |
 |5|Slide|"In 6 weeks: a documented AI system running your work"| Gamma |
@@ -134,7 +134,7 @@ Frames: Intro → Title "Claude isn't one tool — it's four" → 4-panel slide 
 
 ---
 
-## BONUS TRACK — Foundations
+## BONUS TRACK — Claude Essentials
 *Each Bonus video: Intro → Title → the Gamma slides in `bonus-foundations.md` → its [DEMO] → Action/Resource card → Outro. Demos are all real Claude.*
 - **B1** Mode decision table + demo of same task in 2 modes.
 - **B2** Model tiers (Haiku 4.5 / Sonnet 4.6 / Opus 4.8) + demo switching model.

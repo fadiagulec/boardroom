@@ -1,4 +1,4 @@
-# Claude MBA — Prompt Library
+# Built in a Day — Prompt Library
 *Every copy-paste prompt from the course, in one place. Each becomes a downloadable resource beside its video.*
 
 ---
@@ -271,7 +271,7 @@ After we go through everything, produce a one-page "AI System Map" that document
 
 ---
 
-# Foundations Appendix (from the Claude Mastery Guide, Opus 4.8)
+# Claude Essentials Appendix (from the Claude Mastery Guide, Opus 4.8)
 *Reusable building blocks for the Bonus track. Attach the relevant block to each B-video.*
 
 ## The 30 Prompt Principles (cheat sheet)

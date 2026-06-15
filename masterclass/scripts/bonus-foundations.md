@@ -1,4 +1,4 @@
-# Bonus Track — "Foundations" (from the Claude Mastery Guide, Opus 4.8) — SCRIPTS
+# Bonus Track — "Claude Essentials" (from the Claude Mastery Guide, Opus 4.8) — SCRIPTS
 *Short, demo-led reference videos. Members watch anytime. 🟦 GAMMA OUTLINE = paste into Gamma.*
 *Current models referenced: Opus 4.8 · Sonnet 4.6 · Haiku 4.5.*
 
@@ -70,7 +70,7 @@ Chain-of-thought ("think step by step") · Control length & format · Output pri
 NARRATION
 > Six building blocks that instantly improve your prompts. Be direct — skip the pleasantries, state the task. Assign a role to focus the answer. Use XML tags to separate instructions from input so Claude knows what's what. Give few-shot examples — showing beats describing. Add chain-of-thought — "think step by step" — for anything logical. Control length and format explicitly. Prime the output by starting the response for it. And to curb hallucination, add "answer if known, else say you don't know." Watch a weak prompt become a strong one as I layer these on.
 [DEMO] Build one prompt up through each layer; show the output improving.
-Resource: `prompt-library.md` → "Foundations — 30 Prompt Principles".
+Resource: `prompt-library.md` → "Claude Essentials — 30 Prompt Principles".
 
 ---
 
@@ -143,4 +143,4 @@ Example: pull a topic from Notion → apply a formatting Skill → in a client P
 NARRATION
 > Here's the payoff. Projects give Claude persistent context — what it knows. Skills give it repeatable workflows — how it works. Connectors give it live data — where it can reach. Together they turn Claude from a general assistant into a specialised operator. One prompt: "check my content calendar in Notion, pick the first undrafted topic, and write a LinkedIn post using my formatter skill." Claude pulls the live data, applies your Project's voice, runs your Skill's format, and hands you a finished draft. One prompt, no setup — every layer doing its job.
 [DEMO] Run an all-three prompt end to end.
-Resource: `prompt-library.md` → "Foundations — Strategic Uses" and "Mega-Prompts".
+Resource: `prompt-library.md` → "Claude Essentials — Strategic Uses" and "Mega-Prompts".

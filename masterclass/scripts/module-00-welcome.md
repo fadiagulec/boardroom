@@ -7,21 +7,23 @@
 
 🟦 GAMMA OUTLINE
 ```
-Title: The Claude MBA
-Subtitle: From "I've heard of Claude" to "Claude is my co-founder" — in 6 weeks
-Slide: The problem — most people use 5% of Claude
-Slide: This is a DO-IT challenge, not more theory
-Slide: What you'll have in 6 weeks — a documented AI system running your work
+Title: BUILT IN A DAY
+Subtitle: Master Claude · Build apps, agents & automations · 6 weeks
+Slide: My story — 30 years in corporate
+Slide: 6 months ago: "AI is going to take jobs" → so I learned it
+Slide: I got hooked on Claude — built ~10 apps
+Slide: A 300-vehicle fleet app... in ONE day
+Slide: This is a DO-IT course — by week 6 you'll build too
 ```
 
 NARRATION
-> Hi, I'm Fadia. If you're here, you already know Claude is powerful — but here's the truth: most people use about five percent of it. They type a question, get an answer, and close the tab. That's it.
+> Hi, I'm Fadia. Let me tell you how I got here, because if it can happen to me, it can happen to you. I spent thirty years in corporate. Six months ago I kept hearing the same thing everywhere — AI is going to take people's jobs. It scared me. So instead of waiting to find out, I got curious and started learning AI myself.
 >
-> This masterclass is the other ninety-five percent. Over six weeks, we're going to turn Claude from a chatbot you occasionally ask things into a complete AI system that runs your content, your strategy, and all the admin you hate.
+> That's when I found Claude — and honestly, I got hooked. Every problem I saw, I'd go and build something for it: an app, an agent, an automation. Since then I've built around ten apps. One of them was a fleet system for the company I work for — three hundred vehicles, and they were drowning trying to manage bookings, driver licences, vehicle licences, all the compliance. I built the app that fixed all of it. And guess what — it took me one day. That's how fast this can be now.
 >
-> One thing to know up front: this is not an information course. You don't need more information. This is a *do-it* course. Every single week you'll build something real — and by the end you'll have an AI system you actually use every day.
+> Here's the thing: most people use about five percent of Claude. They type a question, get an answer, close the tab. This masterclass is the other ninety-five percent. Over six weeks I'll take you from that — to building real apps, agents, and automations yourself.
 >
-> Let's get into it.
+> This is not an information course; you don't need more information. It's a do-it course. Every week you build something real. Let's get into it.
 
 [DEMO] none — pure host. End on the roadmap card.
 
