@@ -13,7 +13,7 @@
 **Name:** BUILT IN A DAY
 **Tagline:** Master Claude · Build apps, agents & automations · 6 weeks
 **The hook (Fadia's story):**
-> "I spent 30 years in corporate. Six months ago I kept hearing AI would take our jobs — so instead of waiting, I learned it. I got hooked on Claude and started building: an app, an agent, an automation for every problem I saw. I've built around 10 apps — including a system that runs a 300-vehicle fleet (bookings, driver & vehicle licences, all the compliance). It took me **one day**. If a 30-year corporate professional can do this, so can you. Let me show you exactly how."
+> "I'm 55. I spent 30 years in corporate with no tech background. Six months ago I kept hearing AI would take our jobs — so instead of waiting, I learned it. I got hooked on Claude and started building: an app, an agent, an automation for every problem I saw. I've built around 10 apps — including a system that runs a 300-vehicle fleet (bookings, driver & vehicle licences, all the compliance). It took me **one day**. If a 55-year-old with 30 years in corporate and zero tech background can do this — anyone can. Let me show you exactly how."
 
 **Who it's for:** professionals (especially corporate) who feel behind on AI and want to become the person who *builds* with it — not the one replaced by it. No coding background needed.
 **The promise:** in 6 weeks, go from "I've heard of Claude" to building real apps, agents, and automations.

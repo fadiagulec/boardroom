@@ -9,7 +9,7 @@
 ```
 Title: BUILT IN A DAY
 Subtitle: Master Claude · Build apps, agents & automations · 6 weeks
-Slide: My story — 30 years in corporate
+Slide: My story — 55, 30 years in corporate, no tech background
 Slide: 6 months ago: "AI is going to take jobs" → so I learned it
 Slide: I got hooked on Claude — built ~10 apps
 Slide: A 300-vehicle fleet app... in ONE day
@@ -17,7 +17,7 @@ Slide: This is a DO-IT course — by week 6 you'll build too
 ```
 
 NARRATION
-> Hi, I'm Fadia. Let me tell you how I got here, because if it can happen to me, it can happen to you. I spent thirty years in corporate. Six months ago I kept hearing the same thing everywhere — AI is going to take people's jobs. It scared me. So instead of waiting to find out, I got curious and started learning AI myself.
+> Hi, I'm Fadia. Let me tell you how I got here, because if it can happen to me, it can happen to you. I'm fifty-five. I spent thirty years in corporate, with no tech background at all. Six months ago I kept hearing the same thing everywhere — AI is going to take people's jobs. It scared me. So instead of waiting to find out, I got curious and started learning AI myself.
 >
 > That's when I found Claude — and honestly, I got hooked. Every problem I saw, I'd go and build something for it: an app, an agent, an automation. Since then I've built around ten apps. One of them was a fleet system for the company I work for — three hundred vehicles, and they were drowning trying to manage bookings, driver licences, vehicle licences, all the compliance. I built the app that fixed all of it. And guess what — it took me one day. That's how fast this can be now.
 >
