@@ -16,17 +16,21 @@ screenshots substituting for a live action. Record the right surface per week:
 - Week 5 → Antigravity + Claude Code panel  ·  Week 6 → Chat/Cowork building a skill
 Redact private info; otherwise show genuine output (including fixing a first attempt — that realism sells).
 
+## Stack (decided): Loom + Teachable + Zoom
+Sellable course, live calls, **no community**. Record talking-head + screen in **Loom**, sell &
+deliver on **Teachable** (native video hosting — no Vimeo), run weekly **Zoom** calls.
+
 ## How to produce each video (repeat per script)
-1. **Slides:** copy the "🟦 GAMMA OUTLINE" block from the script → paste into Gamma → pick one brand theme → generate.
-2. **Record:** open Screen Studio (Mac) or Tella. Read the **NARRATION** lines aloud; when you hit a **[DEMO]** cue, switch to Claude and do the action live.
-3. **Edit:** drop the recording into Descript → "remove filler words" → add captions → export 1080p.
-4. **Publish:** upload to Vimeo (unlisted) → embed the lesson in Skool/Teachable → attach the module worksheet PDF.
+1. **Slides:** copy the "🟦 GAMMA OUTLINE" block from the script → paste into Gamma → pick one brand theme → generate (for the bookend slides).
+2. **Record:** open **Loom** (camera bubble on) or Screen Studio. Read the **NARRATION** aloud; at each **[DEMO]** cue, switch to Claude and do the action live — your face stays in the corner.
+3. **Edit (optional):** drop into Descript → "remove filler words" → captions → export. Loom is fine raw if you want speed.
+4. **Publish:** upload the video straight into **Teachable** → attach the module worksheet PDF → set the drip.
 
 ## Production order (fastest path)
-1. Record all **screen demos** in one sitting (you're already in Claude).
-2. Record all **talking-head/host** bits in a second sitting (or generate with HeyGen).
-3. Batch-edit in Descript.
-4. Upload + schedule weekly drip.
+1. Record all **module videos** (talking-head + screen) in batches.
+2. Lightly edit in Descript if needed.
+3. Upload to Teachable + schedule the weekly drip.
+4. Schedule the 6 **Zoom** live calls; upload each recording back as a bonus lesson.
 
 ## What's in this kit
 - [x] Modules 0–6 — full scripts (`scripts/`)

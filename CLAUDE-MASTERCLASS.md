@@ -31,13 +31,12 @@ Two separate jobs: **create** the videos, then **host/deliver** them. Use the be
 | Need | Tool | Why |
 | --- | --- | --- |
 | On-brand slides, fast | **Gamma** | Outline → polished deck in minutes |
-| Screen + Claude demos | **Screen Studio** (Mac) / **Tella** (web) | Auto-zoom, smooth cursor, "premium course" look |
+| **Talking head + screen (DECIDED)** | **Loom** (easiest) or **Screen Studio** (Mac, prettier) | Your face in the corner over the live Claude demo — one click |
 | Edit + captions | **Descript** | Edit by transcript, remove filler, auto-captions |
-| Optional host/presenter | **HeyGen** / **Synthesia** | AI host for intros without filming |
 | Promo clips | **Opus Clip** | Auto-cut reels for IG/LinkedIn/X |
 | **Live calls (DECIDED)** | **Zoom** (recording on) | Run the weekly live sessions; reuse the recordings as replays |
 
-**Lean recommended stack:** Gamma → Screen Studio/Tella → Descript for the core lessons; **Zoom** for the live calls. (HeyGen only for intros.)
+**Lean recommended stack (decided):** record talking-head + screen in **Loom** (or **Screen Studio**) → tidy in **Descript** if needed → upload to **Teachable**; **Zoom** for live calls. Gamma for the slide bookends.
 
 > **"Show everything" rule:** the core demos are **full, uncut screen walkthroughs** — every click, every menu, real Claude output. No skipping, no slide-only explaining. Slides are bookends; the screen recording is the lesson.
 >
@@ -51,18 +50,16 @@ Two separate jobs: **create** the videos, then **host/deliver** them. Use the be
 ### Host & deliver
 | Your goal | Platform |
 | --- | --- |
-| Course + community (best for a 6-week cohort) | **Skool** ← recommended |
-| Pure structured course (drip by week) | **Teachable** / Thinkific |
+| Sellable course + live calls, NO community (your pick) | **Teachable** ← recommended (or Thinkific) |
 | All-in-one premium (email + funnel + payments) | **Kajabi** |
 | Fastest launch / one-off sale | **Gumroad** |
-| Clean video playback inside any of the above | **Vimeo** / Wistia |
+| Course + community you actively run | Skool |
 
-**Recommendation for this series (now that it's live + interactive):** host on **Skool**. It's
-built for exactly this — drip the recorded lessons by week, run a **weekly live call** from its
-built-in calendar, and give members a feed to ask questions and get help between calls. Embed
-recorded lessons via **Vimeo**; run live calls in **Zoom** (record every call) and post the replay
-back into the week. (Teachable/Kajabi can do live too via Zoom, but Skool's community + calendar combo
-is the most *interactive* out of the box.)
+**Recommendation (decided): host on Teachable.** It's a clean course platform — you upload the
+videos straight in (native hosting, no separate Vimeo), set a price, and drip one module per week.
+No community feed to manage. Run your **weekly live calls on Zoom**, then upload each recording
+back into Teachable as that week's bonus lesson. (Thinkific or Podia work the same way if you ever
+want to compare; Skool was the community-first option you decided against.)
 
 **Format that converts:** one **full walkthrough** video per *action* (not per week), 3–10 min,
 showing everything on screen. Every video ends with the same checkbox action from your written
@@ -201,14 +198,14 @@ The recorded modules are the **backbone**; these layers make it a live, interact
 - **Fill-in worksheets** open beside the video (already in the kit) — they type as they watch.
 - **Checkpoints:** end each module with a 3–5 question check ("did your setting save? does the skill trigger?").
 
-### 4. Community interaction (between calls)
-- **Accountability pods** of 3–4 people working through the week together.
-- A **#stuck channel** where you (or a pinned FAQ) answer fast.
-- **Progress badges** per completed week (Skool does this natively).
+### 4. Support between calls (NO community to manage — decided)
+- **No community feed.** Support happens on the live calls + light async, so there's nothing to babysit.
+- **Email / DM Q&A** — members send questions; you answer on the next call or in a short reply.
+- Optional later: a simple **office-hours** slot if demand grows. (No forum, no pods, no #channels.)
 
 ### 5. Live tooling — DECIDED: **Zoom**
 - Run the weekly live calls in **Zoom**, screen-sharing Claude directly (turn on **cloud/local recording** every time).
-- Put each call on the **Skool calendar** with the Zoom link; after the call, upload the Zoom recording back into that week's module as the replay.
+- Share the Zoom link with students (announcement/email); after the call, upload the recording into Teachable as that week's bonus lesson.
 - Settings to get right: enable recording by default, allow screen share, and (optional) a co-host to watch chat/admit people while you teach.
 
 ---
@@ -218,15 +215,13 @@ The recorded modules are the **backbone**; these layers make it a live, interact
 - [ ] Update model references everywhere to **Opus 4.8 / Sonnet 4.6 / Haiku 4.5** (guide currently says 4.6)
 - [ ] Write per-video scripts from the 🎤 beats
 - [ ] Build one Gamma theme (your brand)
-- [ ] Record demos in Screen Studio/Tella (real tasks, not slide-narration)
-- [ ] Edit + caption in Descript
-- [ ] (Optional) HeyGen intro/host segments
-- [ ] Upload to Vimeo → embed in Skool/Teachable, drip 1 module/week
+- [ ] Record talking-head + screen in Loom (or Screen Studio) — real Claude, not slide-narration
+- [ ] Edit + caption in Descript (optional — Loom is fine raw)
+- [ ] Upload videos straight into Teachable (native hosting), drip 1 module/week
 - [ ] 1-page worksheet per module (Gamma/Canva → PDF) — reuse the existing checkboxes
 - [ ] Cut promo clips with Opus Clip; soft-launch to current subscribers first
 - [ ] Add pause-and-do cards + a 3–5 question checkpoint to each module
-- [ ] Schedule the 6 weekly live calls on the Skool calendar (Zoom/Riverside)
-- [ ] Set up community: accountability pods, #stuck channel
+- [ ] Schedule the 6 weekly live calls on Zoom; add links/recordings in Teachable
 
 ---
 *Status: All 6 weeks (1–6) aligned to your written plan; the **Bonus "Claude Essentials" track**
