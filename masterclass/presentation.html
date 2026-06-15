@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Built in a Day — Masterclass Plan</title>
+<style>
+  :root{
+    --ink:#1a1714; --muted:#6b6259; --bg:#f6f3ee; --card:#fffdfa;
+    --accent:#c2410c; --accent2:#0f766e; --line:#e7e0d6; --gold:#b08442;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,sans-serif;
+    color:var(--ink);background:var(--bg);line-height:1.6;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:1040px;margin:0 auto;padding:0 22px}
+  h1,h2,h3{line-height:1.15;letter-spacing:-.02em}
+  .hero{background:linear-gradient(135deg,#1a1714,#2b2620 60%,#3a2e22);color:#f6f3ee;padding:70px 0 60px}
+  .hero .wrap{max-width:900px}
+  .kicker{font-size:13px;letter-spacing:.28em;text-transform:uppercase;color:var(--gold);font-weight:700}
+  .hero h1{font-size:clamp(40px,8vw,84px);font-weight:800;margin:10px 0 6px}
+  .hero .tag{font-size:clamp(16px,2.4vw,22px);color:#d8cfc2;font-weight:500}
+  .story{margin-top:26px;padding:20px 24px;border-left:3px solid var(--gold);
+    background:rgba(255,255,255,.06);border-radius:0 12px 12px 0;font-size:16px;color:#eee5d8;font-style:italic}
+  .pills{margin-top:26px;display:flex;flex-wrap:wrap;gap:10px}
+  .pill{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.15);color:#f0e9dd;
+    padding:7px 14px;border-radius:999px;font-size:13px;font-weight:600}
+  section{padding:54px 0;border-bottom:1px solid var(--line)}
+  .eyebrow{color:var(--accent);font-weight:700;text-transform:uppercase;letter-spacing:.16em;font-size:12px}
+  section h2{font-size:clamp(26px,4vw,38px);font-weight:800;margin:6px 0 8px}
+  .lead{color:var(--muted);font-size:17px;max-width:720px}
+  .grid{display:grid;gap:16px;margin-top:26px}
+  .g3{grid-template-columns:repeat(3,1fr)}
+  .g2{grid-template-columns:repeat(2,1fr)}
+  @media(max-width:760px){.g3,.g2{grid-template-columns:1fr}}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px 22px;
+    box-shadow:0 1px 0 rgba(0,0,0,.02)}
+  .card h3{font-size:18px;font-weight:750;margin-bottom:6px}
+  .card p{color:var(--muted);font-size:14.5px}
+  .step-num{display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:9px;
+    background:var(--accent);color:#fff;font-weight:800;font-size:14px;margin-bottom:10px}
+  .flow{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-top:24px}
+  .flow .node{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 16px;font-weight:650;font-size:14px}
+  .flow .arrow{color:var(--gold);font-weight:800}
+  /* modules */
+  .mod{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:0;margin-top:18px;overflow:hidden}
+  .mod summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:16px;padding:18px 22px}
+  .mod summary::-webkit-details-marker{display:none}
+  .badge{flex:0 0 auto;width:54px;height:54px;border-radius:14px;background:linear-gradient(135deg,var(--accent),#7c2d12);
+    color:#fff;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:20px}
+  .mod .mt{flex:1}
+  .mod .mt h3{font-size:18.5px;font-weight:780}
+  .mod .mt .sub{color:var(--muted);font-size:13.5px}
+  .dur{flex:0 0 auto;background:#f0ebe2;color:var(--ink);border-radius:999px;padding:6px 12px;font-size:12.5px;font-weight:700}
+  .mod .body{padding:4px 22px 22px 92px;border-top:1px solid var(--line)}
+  .mod .body ul{list-style:none;margin-top:12px}
+  .mod .body li{padding:7px 0;border-bottom:1px dashed var(--line);font-size:14.5px;display:flex;gap:10px}
+  .mod .body li:last-child{border-bottom:none}
+  .mod .body li b{color:var(--accent2);font-weight:700;flex:0 0 auto}
+  .tagchip{display:inline-block;background:#fbeee6;color:var(--accent);border-radius:6px;padding:2px 8px;font-size:11.5px;font-weight:700;margin-left:auto}
+  .twocol{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:8px}
+  @media(max-width:760px){.twocol{grid-template-columns:1fr}}
+  .mini{font-size:13px;color:var(--muted)}
+  .host{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:22px}
+  @media(max-width:760px){.host{grid-template-columns:1fr}}
+  .host .card b{color:var(--accent)}
+  .note{margin-top:22px;background:#fff8ef;border:1px solid #f0e2cf;border-radius:12px;padding:16px 18px;font-size:14px;color:#7a5b2e}
+  footer{padding:40px 0 60px;color:var(--muted);font-size:13px;text-align:center}
+  .rule-row{display:flex;gap:14px;flex-wrap:wrap;margin-top:20px}
+  .rule{flex:1 1 280px;background:var(--card);border:1px solid var(--line);border-left:4px solid var(--accent2);border-radius:12px;padding:16px 18px}
+  .rule h4{font-size:15px;margin-bottom:4px}
+  .rule p{font-size:13.5px;color:var(--muted)}
+  .open-hint{text-align:center;color:var(--muted);font-size:12.5px;margin-top:10px}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="kicker">The Masterclass</div>
+    <h1>BUILT IN A DAY</h1>
+    <div class="tag">Master Claude · Build apps, agents &amp; automations · 6 weeks</div>
+    <div class="story">"I spent 30 years in corporate. Six months ago I kept hearing AI would take our jobs — so instead of waiting, I learned it. I got hooked on Claude and started building: an app, an agent, an automation for every problem I saw. I've built around 10 apps — including a system that runs a 300-vehicle fleet. It took me <b>one day</b>. If a 30-year corporate professional can do this, so can you. Let me show you exactly how."</div>
+    <div class="pills">
+      <span class="pill">🎥 Video-first</span>
+      <span class="pill">🟢 Live weekly calls (Zoom)</span>
+      <span class="pill">🖥️ Real Claude on screen</span>
+      <span class="pill">📓 Workbooks + prompts</span>
+      <span class="pill">🏫 Hosted on Skool</span>
+    </div>
+  </div>
+</header>
+
+<section>
+  <div class="wrap">
+    <div class="eyebrow">The promise</div>
+    <h2>From "I've heard of Claude" to building real things</h2>
+    <p class="lead">A do-it course, not an information dump. Every week you build something real — and the 8-area <b>AI Audit</b> opens and closes the course so members can see their own jump.</p>
+    <div class="grid g3">
+      <div class="card"><h3>🎯 Who it's for</h3><p>Professionals — especially corporate — who feel behind on AI and want to become the person who builds with it, not the one replaced by it. No coding background needed.</p></div>
+      <div class="card"><h3>⚡ The format</h3><p>Short full-walkthrough videos (one per action), a weekly live build call, fill-in workbooks, and a copy-paste prompt library.</p></div>
+      <div class="card"><h3>🏆 Proof points</h3><p>The one-day 300-vehicle fleet app · ~10 apps built in 6 months · the before/after AI Audit jump.</p></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="eyebrow">The journey</div>
+    <h2>One welcome + six weekly phases + a bonus library</h2>
+    <p class="lead">Each phase maps 1:1 to your Notion course. Click any module to see its videos.</p>
+
+    <details class="mod" open>
+      <summary><div class="badge">0</div><div class="mt"><h3>Welcome + Your AI Audit</h3><div class="sub">Your story · how the 6 weeks work · baseline score</div></div><div class="dur">~15 min</div></summary>
+      <div class="body"><ul>
+        <li><b>V0.1</b> Why this exists — your hero story (on camera)</li>
+        <li><b>V0.2</b> How the 6 weeks work — the roadmap</li>
+        <li><b>V0.3</b> Take your AI Audit — record your /40 baseline</li>
+      </ul></div>
+    </details>
+
+    <details class="mod">
+      <summary><div class="badge">1</div><div class="mt"><h3>Week 1 — Foundation <span class="tagchip">Setup</span></h3><div class="sub">Set Claude up properly — the bits everyone skips</div></div><div class="dur">2–3 hrs</div></summary>
+      <div class="body"><ul>
+        <li><b>V1.1</b> Get set up — Pro + desktop app + first message</li>
+        <li><b>V1.2</b> The setting everyone skips — Personal Preferences</li>
+        <li><b>V1.3</b> Privacy + your name</li>
+        <li><b>V1.4</b> The 4 modes in 5 minutes — Chat · Projects · Cowork · Code</li>
+      </ul></div>
+    </details>
+
+    <details class="mod">
+      <summary><div class="badge">2</div><div class="mt"><h3>Week 2 — Projects <span class="tagchip">Foundations</span></h3><div class="sub">An army of specialised advisors</div></div><div class="dur">3–4 hrs</div></summary>
+      <div class="body"><ul>
+        <li><b>V2.1</b> Why one generic chatbot is the problem</li>
+        <li><b>V2.2</b> Design your project architecture</li>
+        <li><b>V2.3</b> The master workspace prompt (live build)</li>
+        <li><b>V2.4</b> The handover — never lose context</li>
+        <li><b>V2.5</b> Checkpoint + test it</li>
+      </ul></div>
+    </details>
+
+    <details class="mod">
+      <summary><div class="badge">3</div><div class="mt"><h3>Week 3 — Content Engine <span class="tagchip">Content</span></h3><div class="sub">Idea → published, fast, in your voice <em>(aligning to your Phase 3)</em></div></div><div class="dur">4–5 hrs</div></summary>
+      <div class="body"><ul>
+        <li><b>V3.1</b> Idea → outline → draft, fast</li>
+        <li><b>V3.2</b> Make it sound like YOU, not AI</li>
+        <li><b>V3.3</b> Repurpose once, publish everywhere</li>
+        <li><b>V3.4</b> Your weekly content sprint</li>
+      </ul></div>
+    </details>
+
+    <details class="mod">
+      <summary><div class="badge">4</div><div class="mt"><h3>Week 4 — Cowork <span class="tagchip">Cowork</span></h3><div class="sub">Hand over whole workflows · a self-running daily brief</div></div><div class="dur">3–4 hrs</div></summary>
+      <div class="body"><ul>
+        <li><b>V4.1</b> Chat vs Cowork = agency</li>
+        <li><b>V4.2</b> Set up the workspace + guardrails</li>
+        <li><b>V4.3</b> Give Cowork a brain — CLAUDE.md + MEMORY.md</li>
+        <li><b>V4.4</b> Plan the daily brief (in Chat)</li>
+        <li><b>V4.5</b> Run, fix, schedule it</li>
+        <li><b>V4.6</b> Week 4 check-in</li>
+      </ul></div>
+    </details>
+
+    <details class="mod">
+      <summary><div class="badge">5</div><div class="mt"><h3>Week 5 — Claude Code <span class="tagchip">Build</span></h3><div class="sub">Build your first real tool in plain English</div></div><div class="dur">TBD</div></summary>
+      <div class="body"><ul>
+        <li><b>V5.1</b> What Claude Code is</li>
+        <li><b>V5.2</b> Install + Antigravity</li>
+        <li><b>V5.3</b> CLAUDE.md + permissions</li>
+        <li><b>V5.4</b> Spec it first — the PRD</li>
+        <li><b>V5.5</b> Build it — Plan mode → build</li>
+        <li><b>V5.6</b> Save &amp; publish (GitHub + Vercel)</li>
+        <li><b>V5.7</b> Week 5 check-in</li>
+      </ul></div>
+    </details>
+
+    <details class="mod">
+      <summary><div class="badge">6</div><div class="mt"><h3>Week 6 — Skills + System <span class="tagchip">Integration</span></h3><div class="sub">Turn the pieces into a system that runs itself</div></div><div class="dur">TBD</div></summary>
+      <div class="body"><ul>
+        <li><b>V6.1</b> Skills — instructions Claude gives itself</li>
+        <li><b>V6.2</b> The 3 ways to build a skill</li>
+        <li><b>V6.3</b> Build your first skill (Method 2)</li>
+        <li><b>V6.4</b> System audit → AI System Map</li>
+        <li><b>V6.5</b> Efficiency vs Innovation — your next builds</li>
+        <li><b>V6.6</b> Re-take the AI Audit + what's next</li>
+      </ul></div>
+    </details>
+
+    <details class="mod">
+      <summary><div class="badge">★</div><div class="mt"><h3>Bonus — Claude Essentials <span class="tagchip">Reference</span></h3><div class="sub">10 short, demo-led videos members can watch anytime</div></div><div class="dur">10 videos</div></summary>
+      <div class="body"><div class="twocol">
+        <div class="mini">• Chat vs Cowork vs Code<br>• Which model (Haiku/Sonnet/Opus)<br>• What Claude can do (Artifacts)<br>• Why Claude over other LLMs<br>• Prompt engineering core</div>
+        <div class="mini">• Prompt chaining<br>• Skills deep dive<br>• Projects deep dive<br>• Connectors / MCP<br>• The full stack together</div>
+      </div></div>
+    </details>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="eyebrow">How it's delivered</div>
+    <h2>Hosting &amp; the live layer</h2>
+    <div class="host">
+      <div class="card"><h3>🏫 Home: <b>Skool</b></h3><p>Recorded lessons drip weekly, a built-in calendar for live calls, and a community feed for questions between sessions.</p></div>
+      <div class="card"><h3>🎬 Video: <b>Vimeo</b></h3><p>Clean, ad-free playback embedded inside each Skool lesson.</p></div>
+      <div class="card"><h3>🟢 Live: <b>Zoom</b></h3><p>One weekly call: recap → live build on screen → hot seats → Q&amp;A. Recorded → posted back as the replay.</p></div>
+    </div>
+    <div class="rule-row">
+      <div class="rule"><h4>Real Claude only</h4><p>Every demo shows the actual Claude product doing the actual thing — never stock footage or mockups.</p></div>
+      <div class="rule"><h4>Show everything</h4><p>Full uncut walkthroughs — every click and real output. Slides are bookends; the screen recording is the lesson.</p></div>
+      <div class="rule"><h4>Interactive</h4><p>Pause-and-do cards, fill-in workbooks, end-of-module checkpoints, accountability pods.</p></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="eyebrow">How it gets made</div>
+    <h2>The production line</h2>
+    <p class="lead">The whole script kit is written — these are the four stages to turn it into the live course.</p>
+    <div class="grid g2">
+      <div class="card"><span class="step-num">1</span><h3>Pre-production ✅ done</h3><p>Word-for-word scripts, Gamma slide outlines, frame-by-frame storyboards, workbooks, prompt library.</p></div>
+      <div class="card"><span class="step-num">2</span><h3>Record</h3><p>Slides in <b>Gamma</b>; screen + Claude demos in <b>Screen Studio / Tella</b>; optional host intro in HeyGen.</p></div>
+      <div class="card"><span class="step-num">3</span><h3>Edit</h3><p><b>Descript</b> — auto-captions, remove filler, export 1080p.</p></div>
+      <div class="card"><span class="step-num">4</span><h3>Publish</h3><p>Upload to <b>Vimeo</b> → embed in <b>Skool</b>, drip one module/week; workbooks as PDFs.</p></div>
+    </div>
+    <div class="flow">
+      <span class="node">Script</span><span class="arrow">→</span>
+      <span class="node">Gamma slides</span><span class="arrow">→</span>
+      <span class="node">Record (real Claude)</span><span class="arrow">→</span>
+      <span class="node">Descript edit</span><span class="arrow">→</span>
+      <span class="node">Vimeo → Skool</span>
+    </div>
+    <div class="note"><b>Still to finalise:</b> Phase 3 (Content) text to lock Module 3 · Phase 5 &amp; 6 hour estimates · then record.</div>
+  </div>
+</section>
+
+<footer>
+  Built in a Day — Masterclass plan · by Fadia · companion to the Claude Mastery Guide (Opus 4.8)<br>
+  <span class="open-hint">This is an overview of the plan — open the full scripts &amp; storyboards in the kit to produce each video.</span>
+</footer>
+
+</body>
+</html>
