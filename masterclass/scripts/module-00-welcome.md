@@ -70,9 +70,9 @@ Slide: Total ___ / 40 — save it. You'll re-score at the end of the course.
 NARRATION
 > Before we build anything, I want you to take a quick audit — it takes two minutes, and it's your starting line. Rate yourself one to five on eight areas. Be honest; there are no wrong answers.
 >
-> [read the 8 areas on screen] AI setup. Content strategy. Content creation speed. Content quality. File and document automation. Building capability. Workflow integration. And overall confidence.
+> The eight areas, on screen now: AI setup. Content strategy. Content creation speed. Content quality. File and document automation. Building capability. Workflow integration. And overall confidence.
 >
-> Add them up — that's your score out of forty. Write it down and save it. In week six, you'll score yourself again on the exact same eight areas, and I promise you, seeing that jump is one of the best parts of this whole thing.
+> Add them up — that's your score out of forty. Write it down and save it. At the very end of the course you'll score yourself again on the exact same eight areas, and seeing that jump is one of the best parts of this whole thing.
 >
 > Now — let's build your foundation.
 
