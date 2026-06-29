@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>My Story — I'm All In</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;0,800;1,500&family=Inter:wght@600;700&family=Caveat:wght@600&display=swap');
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:#333;display:flex;justify-content:center;padding:20px;font-family:'Playfair Display',Georgia,serif}
+  /* Instagram portrait 1080x1350 → scaled */
+  .card{position:relative;width:1080px;height:1350px;transform-origin:top center;
+    display:grid;grid-template-columns:1fr 1fr;overflow:hidden;background:#1a201a}
+  @media(max-width:1120px){.card{transform:scale(.62)} }
+  /* LEFT PANEL */
+  .left{position:relative;background:linear-gradient(160deg,#202619,#161c14 70%);padding:80px 70px 60px;
+    display:flex;flex-direction:column;z-index:2}
+  .left:after{content:"";position:absolute;top:0;right:-60px;width:120px;height:100%;
+    background:linear-gradient(90deg,#161c14,transparent)}
+  .mystory{font-style:italic;font-weight:500;color:#d8d2c4;font-size:40px;margin-bottom:6px;letter-spacing:.5px}
+  h1{font-weight:800;line-height:.9;letter-spacing:-1px;margin:6px 0 4px}
+  .im{color:#f4efe6;font-size:150px}
+  .allin{color:#c2611f;font-size:150px}
+  .body{color:#cfc9bb;font-size:26px;line-height:1.55;margin-top:30px;max-width:430px;font-weight:500}
+  .script{font-family:'Caveat',cursive;color:#c9a45a;font-size:46px;margin-top:26px}
+  .name{margin-top:auto;font-family:'Inter',sans-serif}
+  .name b{display:block;color:#f4efe6;font-size:44px;font-weight:700;letter-spacing:1px}
+  .name span{color:#c9a45a;font-size:24px;font-weight:600}
+  /* RIGHT PHOTO */
+  .right{position:relative;background:linear-gradient(135deg,#caa37e,#e9c9a0 50%,#f0d9bd)}
+  .right img{width:100%;height:100%;object-fit:cover;display:block}
+  .ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;text-align:center;
+    color:#7a5a3a;font-family:'Inter',sans-serif;font-size:24px;font-weight:700;padding:40px}
+</style>
+</head>
+<body>
+  <div class="card">
+    <div class="left">
+      <div class="mystory">My story —</div>
+      <h1><span class="im">I'M</span><br><span class="allin">ALL IN.</span></h1>
+      <p class="body">After 30 years in Oil &amp; Gas as an HSE &amp; Compliance Manager, I lost my job 7 months ago. Instead of looking back, I taught myself AI and built 7 apps — but I was learning, not earning. So I joined the AI Avatar Income System for direction and focus, to turn my skills into an independent income. I'm also a ThetaHealer &amp; breathwork coach, launching my page with an AI avatar. This is my reinvention.</p>
+      <div class="script">and I'm all in.</div>
+      <div class="name"><b>FADIA</b><span>@earnaihub</span></div>
+    </div>
+    <div class="right">
+      <!-- Save your photo as photo.jpg next to this file and it will appear here -->
+      <img src="photo.jpg" alt="" onerror="this.style.display='none';document.getElementById('ph').style.display='flex'">
+      <div class="ph" id="ph" style="display:none">📸 Save your photo as<br><b>photo.jpg</b><br>in the same folder</div>
+    </div>
+  </div>
+</body>
+</html>
